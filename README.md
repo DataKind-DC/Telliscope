@@ -1,1 +1,1 @@
-# telliscope
+# Telliscope
