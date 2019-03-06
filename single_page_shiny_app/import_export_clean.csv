@@ -1,0 +1,2491 @@
+Year,country_name,trade_direction,total_trade,country_code
+2013,Afghanistan,import,2965.58475752789,AFG
+2013,Albania,import,86237.68011872274,ALB
+2013,Algeria,import,94075.29587608573,DZA
+2013,Andorra,import,22839.227982829885,AND
+2013,Antigua and Barbuda,import,146901.63882107008,ATG
+2013,Argentina,import,3569024.2738070535,ARG
+2013,Australia,import,12386228.90410158,AUS
+2013,Austria,import,30129150.31568981,AUT
+2013,Bahamas,import,6655.87097940969,BHS
+2013,Bahrain,import,24088977.73788437,BHR
+2013,Bangladesh,import,1964372.5586566017,BGD
+2013,Belarus,import,4370393.837798736,BLR
+2013,Belgium,import,98276763.12679185,BEL
+2013,Belize,import,458932.701421801,BLZ
+2013,Benin,import,726.387093685672,BEN
+2013,Bolivia (Plurinational State of),import,82.7277514481306,BOL
+2013,Bosnia and Herzegovina,import,105525.69773565028,BIH
+2013,Botswana,import,12326.762623603065,BWA
+2013,Brazil,import,99296762.15126516,BRA
+2013,Bulgaria,import,18139690.536752485,BGR
+2013,Burkina Faso,import,2120.929143993911,BFA
+2013,Burundi,import,144.490188881974,BDI
+2013,Cabo Verde,import,27866.20603081899,CPV
+2013,Cambodia,import,22043.371045898675,KHM
+2013,Cameroon,import,217471.8517454691,CMR
+2013,Canada,import,29635134.283328284,CAN
+2013,Central African Republic,import,7213.88450061436,CAF
+2013,Chile,import,725036.408316977,CHL
+2013,China,import,2952993491.4638753,CHN
+2013,Christmas Island,import,2265.5640129573826,CXR
+2013,Colombia,import,604073.1650363562,COL
+2013,Congo (Democratic Republic of the),import,6414.66534752474,COD
+2013,Costa Rica,import,266784.60859250743,CRI
+2013,Cote d'Ivoire,import,637115.9695959062,CIV
+2013,Croatia,import,971032.8354636407,HRV
+2013,Cuba,import,181830.24345615163,CUB
+2013,Cyprus,import,12740821.494034603,CYP
+2013,Czechia,import,6454439.636491298,CZE
+2013,Denmark,import,19096898.084584657,DNK
+2013,Djibouti,import,1056339.6556401306,DJI
+2013,Dominica,import,126.257307141983,DMA
+2013,Dominican Republic,import,32749.456119914263,DOM
+2013,Ecuador,import,304889.0463348597,ECU
+2013,Egypt,import,116860133.48120485,EGY
+2013,El Salvador,import,117372.27301982435,SLV
+2013,Estonia,import,105412.68131552494,EST
+2013,Eswatini,import,20995830.40090213,SWZ
+2013,Finland,import,10668630.404625505,FIN
+2013,France,import,147415628.4775081,FRA
+2013,Gabon,import,57341.899777128885,GAB
+2013,Georgia,import,1995688.253785883,GEO
+2013,Germany,import,236716923.6833847,DEU
+2013,Ghana,import,339798.44096573966,GHA
+2013,Gibraltar,import,446.344434338115,GIB
+2013,Greece,import,7723225.812096743,GRC
+2013,Guatemala,import,217575.23204663812,GTM
+2013,Honduras,import,1681.5793533013116,HND
+2013,Hong Kong,import,3376916.020659465,HKG
+2013,Hungary,import,8790655.057153953,HUN
+2013,Iceland,import,49491.06919644042,ISL
+2013,India,import,1224650153.115675,IND
+2013,Indonesia,import,360331567.34379065,IDN
+2013,Iran (Islamic Republic of),import,6837450.313030247,IRN
+2013,Iraq,import,714.3047111451535,IRQ
+2013,Ireland,import,30984897.767565064,IRL
+2013,Israel,import,18753077.091611214,ISR
+2013,Italy,import,459167147.0827283,ITA
+2013,Jamaica,import,7552.705038802987,JAM
+2013,Japan,import,517539494.80853826,JPN
+2013,Jordan,import,52047538.11256329,JOR
+2013,Kenya,import,32421933.667906016,KEN
+2013,Korea (Democratic People's Republic of),import,10534220.157871502,PRK
+2013,Korea (Republic of),import,172540405.62656578,KOR
+2013,Kuwait,import,335855155.0284303,KWT
+2013,Latvia,import,364498.0329891865,LVA
+2013,Lebanon,import,2273399.1856426294,LBN
+2013,Liberia,import,25707.67708682399,LBR
+2013,Libya,import,13998399.861702813,LBY
+2013,Lithuania,import,1661568.7395279813,LTU
+2013,Luxembourg,import,1973147.404003172,LUX
+2013,Macedonia (the former Yugoslav Republic of),import,2428.624315828107,MKD
+2013,Madagascar,import,27533.05727097195,MDG
+2013,Malawi,import,2276.857037994479,MWI
+2013,Malaysia,import,169242671.17940858,MYS
+2013,Mali,import,998449.7960117245,MLI
+2013,Malta,import,258971.57355545994,MLT
+2013,Marshall Islands,import,12994.2904559018,MHL
+2013,Mauritania,import,12723.592959611915,MRT
+2013,Mauritius,import,302676.5341673718,MUS
+2013,Mexico,import,3637164.0113616423,MEX
+2013,Moldova (Republic of),import,98.2792644719975,MDA
+2013,Morocco,import,1087869.668246445,MAR
+2013,Mozambique,import,19889.998989367075,MOZ
+2013,Namibia,import,6997.668629422189,NAM
+2013,Nepal,import,20374.792155360872,NPL
+2013,Netherlands,import,209123063.08157942,NLD
+2013,New Zealand,import,3445872.7926979125,NZL
+2013,Nicaragua,import,5158.102882431479,NIC
+2013,Niger,import,134507.0286860176,NER
+2013,Nigeria,import,4407505.214333971,NGA
+2013,Norway,import,3677346.589645805,NOR
+2013,Oman,import,22657151.152387492,OMN
+2013,Pakistan,import,54435714.27013685,PAK
+2013,Panama,import,35835.32321636589,PAN
+2013,Peru,import,711.641427439216,PER
+2013,Philippines,import,4823174.440561487,PHL
+2013,Poland,import,22382171.124621682,POL
+2013,Portugal,import,7511275.428322192,PRT
+2013,Puerto Rico,import,281024.3429556223,PRI
+2013,Qatar,import,8510449.11197281,QAT
+2013,Réunion,import,19431.38015223318,REU
+2013,Romania,import,7413902.488816544,ROU
+2013,Russian Federation,import,11512049.980053302,RUS
+2013,Rwanda,import,24784.341572651207,RWA
+2013,Saint Vincent and the Grenadines,import,451.4518539795,VCT
+2013,Sao Tome and Principe,import,1127.106238796605,STP
+2013,Saudi Arabia,import,928629022.3413706,SAU
+2013,Senegal,import,136147.17953627906,SEN
+2013,Serbia,import,6415425.141887541,SRB
+2013,Seychelles,import,433.484396359594,SYC
+2013,Sierra Leone,import,2703.636682783603,SLE
+2013,Singapore,import,8060383.158600222,SGP
+2013,Slovakia,import,2310917.1892702705,SVK
+2013,Slovenia,import,790118.860006063,SVN
+2013,Somalia,import,35141.20882335729,SOM
+2013,South Africa,import,134048104.50901859,ZAF
+2013,South Sudan,import,12828.048255062426,SSD
+2013,Spain,import,108668342.40083827,ESP
+2013,Sri Lanka,import,9773598.355327897,LKA
+2013,Sudan,import,10375467.215068007,SDN
+2013,Suriname,import,137595.8101286691,SUR
+2013,Sweden,import,72041252.8736549,SWE
+2013,Switzerland,import,49194005.31592916,CHE
+2013,Syrian Arab Republic,import,553238.9833032802,SYR
+2013,"Taiwan, Province of China",import,68700488.64846462,TWN
+2013,"Tanzania, United Republic of",import,140727.78495859067,TZA
+2013,Thailand,import,177076204.56912473,THA
+2013,Trinidad and Tobago,import,411.3233440247658,TTO
+2013,Tunisia,import,2821855.3353439616,TUN
+2013,Turkey,import,481626617.7541609,TUR
+2013,Turkmenistan,import,11842.9534949282,TKM
+2013,Turks and Caicos Islands,import,1073363.574661837,TCA
+2013,Uganda,import,297057.63958702376,UGA
+2013,Ukraine,import,214050410.85951665,UKR
+2013,United Arab Emirates,import,344987082.7506235,ARE
+2013,United Kingdom of Great Britain and Northern Ireland,import,114371859.62521479,GBR
+2013,United States of America,import,514880922.2190308,USA
+2013,Uruguay,import,310408.7515491942,URY
+2013,Uzbekistan,import,28789.479843192323,UZB
+2013,Venezuela (Bolivarian Republic of),import,68683.35434385981,VEN
+2013,Viet Nam,import,38974021.17914268,VNM
+2013,Virgin Islands (U.S.),import,382.3527534428008,VIR
+2013,Yemen,import,12085554.289604845,YEM
+2013,Zambia,import,58608.088254849696,ZMB
+2013,Zimbabwe,import,53909.9653725246,ZWE
+2013,Åland Islands,import,0,ALA
+2013,American Samoa,import,0,ASM
+2013,Angola,import,0,AGO
+2013,Anguilla,import,0,AIA
+2013,Antarctica,import,0,ATA
+2013,Armenia,import,0,ARM
+2013,Aruba,import,0,ABW
+2013,Azerbaijan,import,0,AZE
+2013,Barbados,import,0,BRB
+2013,Bermuda,import,0,BMU
+2013,Bhutan,import,0,BTN
+2013,"Bonaire, Sint Eustatius and Saba",import,0,BES
+2013,Bouvet Island,import,0,BVT
+2013,British Indian Ocean Territory,import,0,IOT
+2013,Brunei Darussalam,import,0,BRN
+2013,Cayman Islands,import,0,CYM
+2013,Chad,import,0,TCD
+2013,Cocos (Keeling) Islands,import,0,CCK
+2013,Comoros,import,0,COM
+2013,Congo,import,0,COG
+2013,Cook Islands,import,0,COK
+2013,Curaçao,import,0,CUW
+2013,Equatorial Guinea,import,0,GNQ
+2013,Eritrea,import,0,ERI
+2013,Ethiopia,import,0,ETH
+2013,Falkland Islands (Malvinas),import,0,FLK
+2013,Faroe Islands,import,0,FRO
+2013,Fiji,import,0,FJI
+2013,French Guiana,import,0,GUF
+2013,French Polynesia,import,0,PYF
+2013,French Southern Territories,import,0,ATF
+2013,Gambia,import,0,GMB
+2013,Greenland,import,0,GRL
+2013,Grenada,import,0,GRD
+2013,Guadeloupe,import,0,GLP
+2013,Guam,import,0,GUM
+2013,Guernsey,import,0,GGY
+2013,Guinea,import,0,GIN
+2013,Guinea-Bissau,import,0,GNB
+2013,Guyana,import,0,GUY
+2013,Haiti,import,0,HTI
+2013,Heard Island and McDonald Islands,import,0,HMD
+2013,Holy See,import,0,VAT
+2013,Isle of Man,import,0,IMN
+2013,Jersey,import,0,JEY
+2013,Kazakhstan,import,0,KAZ
+2013,Kiribati,import,0,KIR
+2013,Kyrgyzstan,import,0,KGZ
+2013,Lao People's Democratic Republic,import,0,LAO
+2013,Lesotho,import,0,LSO
+2013,Liechtenstein,import,0,LIE
+2013,Macao,import,0,MAC
+2013,Maldives,import,0,MDV
+2013,Martinique,import,0,MTQ
+2013,Mayotte,import,0,MYT
+2013,Micronesia (Federated States of),import,0,FSM
+2013,Monaco,import,0,MCO
+2013,Mongolia,import,0,MNG
+2013,Montenegro,import,0,MNE
+2013,Montserrat,import,0,MSR
+2013,Myanmar,import,0,MMR
+2013,Nauru,import,0,NRU
+2013,New Caledonia,import,0,NCL
+2013,Niue,import,0,NIU
+2013,Norfolk Island,import,0,NFK
+2013,Northern Mariana Islands,import,0,MNP
+2013,Palau,import,0,PLW
+2013,"Palestine, State of",import,0,PSE
+2013,Papua New Guinea,import,0,PNG
+2013,Paraguay,import,0,PRY
+2013,Pitcairn,import,0,PCN
+2013,Saint Barthélemy,import,0,BLM
+2013,"Saint Helena, Ascension and Tristan da Cunha",import,0,SHN
+2013,Saint Kitts and Nevis,import,0,KNA
+2013,Saint Lucia,import,0,LCA
+2013,Saint Martin (French part),import,0,MAF
+2013,Saint Pierre and Miquelon,import,0,SPM
+2013,Samoa,import,0,WSM
+2013,San Marino,import,0,SMR
+2013,Sint Maarten (Dutch part),import,0,SXM
+2013,Solomon Islands,import,0,SLB
+2013,South Georgia and the South Sandwich Islands,import,0,SGS
+2013,Svalbard and Jan Mayen,import,0,SJM
+2013,Tajikistan,import,0,TJK
+2013,Timor-Leste,import,0,TLS
+2013,Togo,import,0,TGO
+2013,Tokelau,import,0,TKL
+2013,Tonga,import,0,TON
+2013,Tuvalu,import,0,TUV
+2013,United States Minor Outlying Islands,import,0,UMI
+2013,Vanuatu,import,0,VUT
+2013,Virgin Islands (British),import,0,VGB
+2013,Wallis and Futuna,import,0,WLF
+2013,Western Sahara,import,0,ESH
+2014,Albania,import,70208.19069083981,ALB
+2014,Algeria,import,267368.55626600987,DZA
+2014,Andorra,import,330160.4504656565,AND
+2014,Angola,import,100.130066125221,AGO
+2014,Antigua and Barbuda,import,183952.3218292658,ATG
+2014,Argentina,import,3207729.585575568,ARG
+2014,Australia,import,14344620.889513291,AUS
+2014,Austria,import,29772667.495879576,AUT
+2014,Azerbaijan,import,1471.2916261244309,AZE
+2014,Bahrain,import,36061403.534621425,BHR
+2014,Bangladesh,import,2675328.983895629,BGD
+2014,Barbados,import,19460.09303203,BRB
+2014,Belarus,import,1166139.7669731327,BLR
+2014,Belgium,import,195722616.17635384,BEL
+2014,Belize,import,349001.1338588933,BLZ
+2014,Bermuda,import,18849.00712881511,BMU
+2014,Bosnia and Herzegovina,import,196013.71552254807,BIH
+2014,Botswana,import,9502.965706229272,BWA
+2014,Brazil,import,57285352.00957127,BRA
+2014,Bulgaria,import,6974657.972755615,BGR
+2014,Burkina Faso,import,10197.381798685443,BFA
+2014,Burundi,import,10664.382235548757,BDI
+2014,Cabo Verde,import,56060.32685319411,CPV
+2014,Cambodia,import,92957.7200698982,KHM
+2014,Cameroon,import,328703.05853968457,CMR
+2014,Canada,import,52044987.817470536,CAN
+2014,Central African Republic,import,1021.891816755694,CAF
+2014,Chile,import,1761439.0779205314,CHL
+2014,China,import,5018118874.330308,CHN
+2014,Christmas Island,import,39.6711610635636,CXR
+2014,Colombia,import,447846.8610377491,COL
+2014,Comoros,import,1925.1136837506692,COM
+2014,Congo,import,585387.7797414563,COG
+2014,Costa Rica,import,127647.41803848368,CRI
+2014,Cote d'Ivoire,import,264486.58531742083,CIV
+2014,Croatia,import,320694.044758633,HRV
+2014,Cuba,import,72297.94078516254,CUB
+2014,Cyprus,import,6788752.701106057,CYP
+2014,Czechia,import,45291474.2682539,CZE
+2014,Denmark,import,37840137.95994758,DNK
+2014,Djibouti,import,360048.63678786345,DJI
+2014,Dominica,import,580.786453265553,DMA
+2014,Dominican Republic,import,112587.47542643813,DOM
+2014,Ecuador,import,877376.660577056,ECU
+2014,Egypt,import,135934116.46925077,EGY
+2014,El Salvador,import,79585.58400683095,SLV
+2014,Equatorial Guinea,import,5638.73140848706,GNQ
+2014,Estonia,import,74764.30677733867,EST
+2014,Eswatini,import,24882212.488830198,SWZ
+2014,Finland,import,12534789.785837676,FIN
+2014,France,import,120290625.43735977,FRA
+2014,Gabon,import,25160.011120157236,GAB
+2014,Gambia,import,13112.7300978971,GMB
+2014,Georgia,import,2975130.795389106,GEO
+2014,Germany,import,363644600.64189124,DEU
+2014,Ghana,import,68592.90692825514,GHA
+2014,Greece,import,16560251.875037232,GRC
+2014,Grenada,import,2657.24597390735,GRD
+2014,Guatemala,import,116982.56121050857,GTM
+2014,Guinea,import,48268.26932623763,GIN
+2014,Hong Kong,import,4152606.715284259,HKG
+2014,Hungary,import,12662134.960980162,HUN
+2014,Iceland,import,354062.0365773745,ISL
+2014,India,import,1056107230.2929963,IND
+2014,Indonesia,import,421652278.7644712,IDN
+2014,Iran (Islamic Republic of),import,6335379.740959908,IRN
+2014,Iraq,import,3913.3312813995512,IRQ
+2014,Ireland,import,25326142.074405763,IRL
+2014,Israel,import,27794634.148811538,ISR
+2014,Italy,import,472103503.3797335,ITA
+2014,Jamaica,import,28935.07863539785,JAM
+2014,Japan,import,569356352.215592,JPN
+2014,Jordan,import,74101863.7343871,JOR
+2014,Kenya,import,36167007.97771997,KEN
+2014,Korea (Democratic People's Republic of),import,4967597.815683391,PRK
+2014,Korea (Republic of),import,215640386.7411982,KOR
+2014,Kuwait,import,942538198.4675037,KWT
+2014,Latvia,import,33167.27844079508,LVA
+2014,Lebanon,import,4009864.114160328,LBN
+2014,Lesotho,import,102765.20185071239,LSO
+2014,Liberia,import,14103.68851645187,LBR
+2014,Lithuania,import,2051847.9224170465,LTU
+2014,Luxembourg,import,9747959.395043576,LUX
+2014,Macedonia (the former Yugoslav Republic of),import,2725.91443436129,MKD
+2014,Madagascar,import,9136.327667348436,MDG
+2014,Malawi,import,5180.399233503445,MWI
+2014,Malaysia,import,135453525.1365197,MYS
+2014,Mali,import,194363.12923211322,MLI
+2014,Malta,import,846112.315574177,MLT
+2014,Mauritania,import,1074197.4741357034,MRT
+2014,Mauritius,import,516841.45733632526,MUS
+2014,Mexico,import,8668381.004884927,MEX
+2014,Moldova (Republic of),import,206.124525904009,MDA
+2014,Morocco,import,69228537.83434941,MAR
+2014,Mozambique,import,393936.7511269087,MOZ
+2014,Namibia,import,1301.202863440499,NAM
+2014,Nepal,import,1578.76248535515,NPL
+2014,Netherlands,import,123790050.55799358,NLD
+2014,New Zealand,import,4721617.7316864915,NZL
+2014,Niger,import,93294.68367124048,NER
+2014,Nigeria,import,3522444.077026945,NGA
+2014,Norway,import,2320271.8516054726,NOR
+2014,Oman,import,37372607.17796223,OMN
+2014,Pakistan,import,57430934.35880378,PAK
+2014,"Palestine, State of",import,402.7244385313448,PSE
+2014,Panama,import,64408.26168112946,PAN
+2014,Peru,import,1568749.554697274,PER
+2014,Philippines,import,10831391.904128361,PHL
+2014,Poland,import,26476556.132965304,POL
+2014,Portugal,import,9226515.10008142,PRT
+2014,Puerto Rico,import,67463.72197621083,PRI
+2014,Qatar,import,12126761.674179392,QAT
+2014,Réunion,import,3523.1105661351535,REU
+2014,Romania,import,83593317.78976943,ROU
+2014,Russian Federation,import,126720861.68609379,RUS
+2014,Rwanda,import,1124.116841081038,RWA
+2014,Saint Vincent and the Grenadines,import,482.364125578347,VCT
+2014,Saudi Arabia,import,1245328936.696519,SAU
+2014,Senegal,import,381184.08477134234,SEN
+2014,Serbia,import,584264.8161202567,SRB
+2014,Seychelles,import,4887.66655414127,SYC
+2014,Sierra Leone,import,7763.5154590043485,SLE
+2014,Singapore,import,12511779.442105684,SGP
+2014,Slovakia,import,4507388.7333942335,SVK
+2014,Slovenia,import,1184501.1055620636,SVN
+2014,Somalia,import,269290.62630314304,SOM
+2014,South Africa,import,132431452.80436467,ZAF
+2014,South Sudan,import,376419.3207768225,SSD
+2014,Spain,import,125730417.66317838,ESP
+2014,Sri Lanka,import,1330127.0492861255,LKA
+2014,Sudan,import,102460324.64355935,SDN
+2014,Suriname,import,45526.232649576086,SUR
+2014,Sweden,import,39755738.65247522,SWE
+2014,Switzerland,import,41304686.91346135,CHE
+2014,Syrian Arab Republic,import,153364.2377727913,SYR
+2014,"Taiwan, Province of China",import,70793608.03431363,TWN
+2014,"Tanzania, United Republic of",import,6103820.331519692,TZA
+2014,Thailand,import,200984823.71224603,THA
+2014,Timor-Leste,import,6197.154431184096,TLS
+2014,Togo,import,25190.11547091881,TGO
+2014,Tonga,import,7119.3297126630805,TON
+2014,Trinidad and Tobago,import,8725.652812804063,TTO
+2014,Tunisia,import,546335.2687702302,TUN
+2014,Turkey,import,399677738.37496775,TUR
+2014,Turkmenistan,import,3802296.7989832987,TKM
+2014,Turks and Caicos Islands,import,1725418.1774856516,TCA
+2014,Uganda,import,112392.3732599933,UGA
+2014,Ukraine,import,249154856.46657008,UKR
+2014,United Arab Emirates,import,363536067.145396,ARE
+2014,United Kingdom of Great Britain and Northern Ireland,import,167607613.89076427,GBR
+2014,United States of America,import,654921277.7363529,USA
+2014,Uruguay,import,123788.806866697,URY
+2014,Uzbekistan,import,2471224.134216326,UZB
+2014,Venezuela (Bolivarian Republic of),import,55090.0280982546,VEN
+2014,Viet Nam,import,56207555.775035225,VNM
+2014,Virgin Islands (U.S.),import,27197.990428721776,VIR
+2014,Yemen,import,35304677.53281437,YEM
+2014,Zambia,import,3656605.5764610097,ZMB
+2014,Zimbabwe,import,38378.67362338413,ZWE
+2014,Afghanistan,import,0,AFG
+2014,Åland Islands,import,0,ALA
+2014,American Samoa,import,0,ASM
+2014,Anguilla,import,0,AIA
+2014,Antarctica,import,0,ATA
+2014,Armenia,import,0,ARM
+2014,Aruba,import,0,ABW
+2014,Bahamas,import,0,BHS
+2014,Benin,import,0,BEN
+2014,Bhutan,import,0,BTN
+2014,Bolivia (Plurinational State of),import,0,BOL
+2014,"Bonaire, Sint Eustatius and Saba",import,0,BES
+2014,Bouvet Island,import,0,BVT
+2014,British Indian Ocean Territory,import,0,IOT
+2014,Brunei Darussalam,import,0,BRN
+2014,Cayman Islands,import,0,CYM
+2014,Chad,import,0,TCD
+2014,Cocos (Keeling) Islands,import,0,CCK
+2014,Congo (Democratic Republic of the),import,0,COD
+2014,Cook Islands,import,0,COK
+2014,Curaçao,import,0,CUW
+2014,Eritrea,import,0,ERI
+2014,Ethiopia,import,0,ETH
+2014,Falkland Islands (Malvinas),import,0,FLK
+2014,Faroe Islands,import,0,FRO
+2014,Fiji,import,0,FJI
+2014,French Guiana,import,0,GUF
+2014,French Polynesia,import,0,PYF
+2014,French Southern Territories,import,0,ATF
+2014,Gibraltar,import,0,GIB
+2014,Greenland,import,0,GRL
+2014,Guadeloupe,import,0,GLP
+2014,Guam,import,0,GUM
+2014,Guernsey,import,0,GGY
+2014,Guinea-Bissau,import,0,GNB
+2014,Guyana,import,0,GUY
+2014,Haiti,import,0,HTI
+2014,Heard Island and McDonald Islands,import,0,HMD
+2014,Holy See,import,0,VAT
+2014,Honduras,import,0,HND
+2014,Isle of Man,import,0,IMN
+2014,Jersey,import,0,JEY
+2014,Kazakhstan,import,0,KAZ
+2014,Kiribati,import,0,KIR
+2014,Kyrgyzstan,import,0,KGZ
+2014,Lao People's Democratic Republic,import,0,LAO
+2014,Libya,import,0,LBY
+2014,Liechtenstein,import,0,LIE
+2014,Macao,import,0,MAC
+2014,Maldives,import,0,MDV
+2014,Marshall Islands,import,0,MHL
+2014,Martinique,import,0,MTQ
+2014,Mayotte,import,0,MYT
+2014,Micronesia (Federated States of),import,0,FSM
+2014,Monaco,import,0,MCO
+2014,Mongolia,import,0,MNG
+2014,Montenegro,import,0,MNE
+2014,Montserrat,import,0,MSR
+2014,Myanmar,import,0,MMR
+2014,Nauru,import,0,NRU
+2014,New Caledonia,import,0,NCL
+2014,Nicaragua,import,0,NIC
+2014,Niue,import,0,NIU
+2014,Norfolk Island,import,0,NFK
+2014,Northern Mariana Islands,import,0,MNP
+2014,Palau,import,0,PLW
+2014,Papua New Guinea,import,0,PNG
+2014,Paraguay,import,0,PRY
+2014,Pitcairn,import,0,PCN
+2014,Saint Barthélemy,import,0,BLM
+2014,"Saint Helena, Ascension and Tristan da Cunha",import,0,SHN
+2014,Saint Kitts and Nevis,import,0,KNA
+2014,Saint Lucia,import,0,LCA
+2014,Saint Martin (French part),import,0,MAF
+2014,Saint Pierre and Miquelon,import,0,SPM
+2014,Samoa,import,0,WSM
+2014,San Marino,import,0,SMR
+2014,Sao Tome and Principe,import,0,STP
+2014,Sint Maarten (Dutch part),import,0,SXM
+2014,Solomon Islands,import,0,SLB
+2014,South Georgia and the South Sandwich Islands,import,0,SGS
+2014,Svalbard and Jan Mayen,import,0,SJM
+2014,Tajikistan,import,0,TJK
+2014,Tokelau,import,0,TKL
+2014,Tuvalu,import,0,TUV
+2014,United States Minor Outlying Islands,import,0,UMI
+2014,Vanuatu,import,0,VUT
+2014,Virgin Islands (British),import,0,VGB
+2014,Wallis and Futuna,import,0,WLF
+2014,Western Sahara,import,0,ESH
+2015,Albania,import,71897.36454624197,ALB
+2015,Algeria,import,77381.68944278706,DZA
+2015,Andorra,import,1316549.8007891446,AND
+2015,Argentina,import,4188679.6511404114,ARG
+2015,Australia,import,9636942.017130211,AUS
+2015,Austria,import,49361110.544702135,AUT
+2015,Azerbaijan,import,712794.752189394,AZE
+2015,Bahrain,import,120259928.94764696,BHR
+2015,Bangladesh,import,2816926.8631508034,BGD
+2015,Barbados,import,3510.66307381388,BRB
+2015,Belarus,import,14913944.561158711,BLR
+2015,Belgium,import,258873569.8975074,BEL
+2015,Belize,import,60254.297468963625,BLZ
+2015,Bosnia and Herzegovina,import,127604.55345972479,BIH
+2015,Brazil,import,41514985.3989029,BRA
+2015,Bulgaria,import,73672310.03897615,BGR
+2015,Burkina Faso,import,1038.346164950438,BFA
+2015,Cambodia,import,372584.2883264363,KHM
+2015,Cameroon,import,536534.1930516794,CMR
+2015,Canada,import,35243740.251178905,CAN
+2015,Chad,import,123768.90049080909,TCD
+2015,Chile,import,400205.5129438937,CHL
+2015,China,import,6073161163.292754,CHN
+2015,Christmas Island,import,784.7656625926281,CXR
+2015,Colombia,import,719114.9186796261,COL
+2015,Congo,import,26785.879607352508,COG
+2015,Costa Rica,import,222420.425368107,CRI
+2015,Cote d'Ivoire,import,328402.16148590134,CIV
+2015,Croatia,import,68615.2848618998,HRV
+2015,Cuba,import,191300.8723895675,CUB
+2015,Cyprus,import,5536962.334231546,CYP
+2015,Czechia,import,11369609.860937351,CZE
+2015,Denmark,import,32947691.32566645,DNK
+2015,Djibouti,import,313927.541141372,DJI
+2015,Ecuador,import,2090928.1002790872,ECU
+2015,Egypt,import,178197319.58233082,EGY
+2015,El Salvador,import,123261.43200846885,SLV
+2015,Estonia,import,5691966.803002601,EST
+2015,Eswatini,import,4644104.487537296,SWZ
+2015,Finland,import,7461426.968530465,FIN
+2015,France,import,183121531.50947934,FRA
+2015,Gabon,import,1868.4746415167,GAB
+2015,Georgia,import,1546937.7514194977,GEO
+2015,Germany,import,321438479.92397267,DEU
+2015,Ghana,import,530486.3708978925,GHA
+2015,Gibraltar,import,1530.25984024637,GIB
+2015,Greece,import,19466900.84063131,GRC
+2015,Grenada,import,52317.1677413146,GRD
+2015,Guatemala,import,181453.27109999047,GTM
+2015,Guinea,import,13391.154845539451,GIN
+2015,Haiti,import,2796689.2854393213,HTI
+2015,Holy See,import,1087.88085843518,VAT
+2015,Honduras,import,20582.40592820709,HND
+2015,Hong Kong,import,13148520.911846794,HKG
+2015,Hungary,import,21998951.96612453,HUN
+2015,Iceland,import,229140.53700317623,ISL
+2015,India,import,1151498728.2725437,IND
+2015,Indonesia,import,404014104.08815324,IDN
+2015,Iran (Islamic Republic of),import,6417095.51679338,IRN
+2015,Iraq,import,226.369454335483,IRQ
+2015,Ireland,import,34497808.22009429,IRL
+2015,Israel,import,30938264.42305842,ISR
+2015,Italy,import,490703796.7154269,ITA
+2015,Jamaica,import,144248.2667693196,JAM
+2015,Japan,import,705379624.5342122,JPN
+2015,Jordan,import,6429790.587527669,JOR
+2015,Kazakhstan,import,2190601.8722933345,KAZ
+2015,Kenya,import,36434370.415263206,KEN
+2015,Korea (Democratic People's Republic of),import,5119188.971706286,PRK
+2015,Korea (Republic of),import,235345081.21691847,KOR
+2015,Kuwait,import,753143327.2346259,KWT
+2015,Kyrgyzstan,import,7453.90000962371,KGZ
+2015,Lao People's Democratic Republic,import,242.799538061784,LAO
+2015,Latvia,import,1468261.8987585425,LVA
+2015,Lebanon,import,7596667.694639592,LBN
+2015,Lithuania,import,1680428.7392936198,LTU
+2015,Luxembourg,import,331735.2968915404,LUX
+2015,Macedonia (the former Yugoslav Republic of),import,131884.6193821573,MKD
+2015,Madagascar,import,109768.10460975853,MDG
+2015,Malawi,import,109326.60042344338,MWI
+2015,Malaysia,import,172985112.49542874,MYS
+2015,Mali,import,350064.3325955154,MLI
+2015,Malta,import,873865.953228756,MLT
+2015,Mauritania,import,3336.440669810412,MRT
+2015,Mauritius,import,733703.0016360309,MUS
+2015,Mexico,import,7692861.723125785,MEX
+2015,Monaco,import,650.769415840631,MCO
+2015,Morocco,import,196019964.66172656,MAR
+2015,Mozambique,import,93857.94870561056,MOZ
+2015,Namibia,import,2253450.2030603415,NAM
+2015,Nepal,import,12375.297853912036,NPL
+2015,Netherlands,import,220769478.15946478,NLD
+2015,New Zealand,import,5777072.357809641,NZL
+2015,Nicaragua,import,111.706284284477,NIC
+2015,Niger,import,142904.23250890197,NER
+2015,Nigeria,import,10552380.016841484,NGA
+2015,Norway,import,3935947.749013569,NOR
+2015,Oman,import,37928148.91877587,OMN
+2015,Pakistan,import,49231280.0235781,PAK
+2015,Panama,import,65638.06419016453,PAN
+2015,Peru,import,9142642.984313346,PER
+2015,Philippines,import,14460938.81339621,PHL
+2015,Poland,import,35089746.63747477,POL
+2015,Portugal,import,15224163.376479642,PRT
+2015,Puerto Rico,import,11878904.049658386,PRI
+2015,Qatar,import,18939042.171109613,QAT
+2015,Réunion,import,30864.396593205685,REU
+2015,Romania,import,21394458.827831823,ROU
+2015,Russian Federation,import,83833645.47685505,RUS
+2015,Rwanda,import,890.234818593013,RWA
+2015,Saint Vincent and the Grenadines,import,1520.2636897315,VCT
+2015,Saudi Arabia,import,486862005.21172166,SAU
+2015,Senegal,import,179686.6740448465,SEN
+2015,Serbia,import,580391.0778558364,SRB
+2015,Seychelles,import,1096.570108747954,SYC
+2015,Sierra Leone,import,39048.084881147166,SLE
+2015,Singapore,import,15731154.318159947,SGP
+2015,Slovakia,import,1980106.43297084,SVK
+2015,Slovenia,import,2591431.797709555,SVN
+2015,Somalia,import,889316.9449523622,SOM
+2015,South Africa,import,160711437.1080743,ZAF
+2015,South Sudan,import,264651.8886536423,SSD
+2015,Spain,import,133191690.99076125,ESP
+2015,Sri Lanka,import,2325542.2885189108,LKA
+2015,Sudan,import,68536487.0017322,SDN
+2015,Suriname,import,159249.34125685683,SUR
+2015,Sweden,import,635002289.1194303,SWE
+2015,Switzerland,import,57191022.27648928,CHE
+2015,Syrian Arab Republic,import,443622.7725916655,SYR
+2015,"Taiwan, Province of China",import,68816465.51390627,TWN
+2015,"Tanzania, United Republic of",import,6381578.502550281,TZA
+2015,Thailand,import,144082701.01000866,THA
+2015,Timor-Leste,import,27616.5975363295,TLS
+2015,Togo,import,26574.6853045905,TGO
+2015,Tonga,import,13785.2492541623,TON
+2015,Tunisia,import,1201631.3776344908,TUN
+2015,Turkey,import,515412408.04734874,TUR
+2015,Turkmenistan,import,513106.504667501,TKM
+2015,Turks and Caicos Islands,import,249875.0606293908,TCA
+2015,Uganda,import,221156.268405351,UGA
+2015,Ukraine,import,195574390.46578774,UKR
+2015,United Arab Emirates,import,371868705.6279473,ARE
+2015,United Kingdom of Great Britain and Northern Ireland,import,181815084.792609,GBR
+2015,United States of America,import,872143926.2246175,USA
+2015,Uruguay,import,110536.34731979569,URY
+2015,Uzbekistan,import,1610371.556154364,UZB
+2015,Venezuela (Bolivarian Republic of),import,8133.36589356173,VEN
+2015,Viet Nam,import,54284643.19795978,VNM
+2015,Virgin Islands (U.S.),import,28963.75228563177,VIR
+2015,Yemen,import,6353300.855548071,YEM
+2015,Zambia,import,15362.57193725344,ZMB
+2015,Zimbabwe,import,170710.27186988737,ZWE
+2015,Afghanistan,import,0,AFG
+2015,Åland Islands,import,0,ALA
+2015,American Samoa,import,0,ASM
+2015,Angola,import,0,AGO
+2015,Anguilla,import,0,AIA
+2015,Antarctica,import,0,ATA
+2015,Antigua and Barbuda,import,0,ATG
+2015,Armenia,import,0,ARM
+2015,Aruba,import,0,ABW
+2015,Bahamas,import,0,BHS
+2015,Benin,import,0,BEN
+2015,Bermuda,import,0,BMU
+2015,Bhutan,import,0,BTN
+2015,Bolivia (Plurinational State of),import,0,BOL
+2015,"Bonaire, Sint Eustatius and Saba",import,0,BES
+2015,Botswana,import,0,BWA
+2015,Bouvet Island,import,0,BVT
+2015,British Indian Ocean Territory,import,0,IOT
+2015,Brunei Darussalam,import,0,BRN
+2015,Burundi,import,0,BDI
+2015,Cabo Verde,import,0,CPV
+2015,Cayman Islands,import,0,CYM
+2015,Central African Republic,import,0,CAF
+2015,Cocos (Keeling) Islands,import,0,CCK
+2015,Comoros,import,0,COM
+2015,Congo (Democratic Republic of the),import,0,COD
+2015,Cook Islands,import,0,COK
+2015,Curaçao,import,0,CUW
+2015,Dominica,import,0,DMA
+2015,Dominican Republic,import,0,DOM
+2015,Equatorial Guinea,import,0,GNQ
+2015,Eritrea,import,0,ERI
+2015,Ethiopia,import,0,ETH
+2015,Falkland Islands (Malvinas),import,0,FLK
+2015,Faroe Islands,import,0,FRO
+2015,Fiji,import,0,FJI
+2015,French Guiana,import,0,GUF
+2015,French Polynesia,import,0,PYF
+2015,French Southern Territories,import,0,ATF
+2015,Gambia,import,0,GMB
+2015,Greenland,import,0,GRL
+2015,Guadeloupe,import,0,GLP
+2015,Guam,import,0,GUM
+2015,Guernsey,import,0,GGY
+2015,Guinea-Bissau,import,0,GNB
+2015,Guyana,import,0,GUY
+2015,Heard Island and McDonald Islands,import,0,HMD
+2015,Isle of Man,import,0,IMN
+2015,Jersey,import,0,JEY
+2015,Kiribati,import,0,KIR
+2015,Lesotho,import,0,LSO
+2015,Liberia,import,0,LBR
+2015,Libya,import,0,LBY
+2015,Liechtenstein,import,0,LIE
+2015,Macao,import,0,MAC
+2015,Maldives,import,0,MDV
+2015,Marshall Islands,import,0,MHL
+2015,Martinique,import,0,MTQ
+2015,Mayotte,import,0,MYT
+2015,Micronesia (Federated States of),import,0,FSM
+2015,Moldova (Republic of),import,0,MDA
+2015,Mongolia,import,0,MNG
+2015,Montenegro,import,0,MNE
+2015,Montserrat,import,0,MSR
+2015,Myanmar,import,0,MMR
+2015,Nauru,import,0,NRU
+2015,New Caledonia,import,0,NCL
+2015,Niue,import,0,NIU
+2015,Norfolk Island,import,0,NFK
+2015,Northern Mariana Islands,import,0,MNP
+2015,Palau,import,0,PLW
+2015,"Palestine, State of",import,0,PSE
+2015,Papua New Guinea,import,0,PNG
+2015,Paraguay,import,0,PRY
+2015,Pitcairn,import,0,PCN
+2015,Saint Barthélemy,import,0,BLM
+2015,"Saint Helena, Ascension and Tristan da Cunha",import,0,SHN
+2015,Saint Kitts and Nevis,import,0,KNA
+2015,Saint Lucia,import,0,LCA
+2015,Saint Martin (French part),import,0,MAF
+2015,Saint Pierre and Miquelon,import,0,SPM
+2015,Samoa,import,0,WSM
+2015,San Marino,import,0,SMR
+2015,Sao Tome and Principe,import,0,STP
+2015,Sint Maarten (Dutch part),import,0,SXM
+2015,Solomon Islands,import,0,SLB
+2015,South Georgia and the South Sandwich Islands,import,0,SGS
+2015,Svalbard and Jan Mayen,import,0,SJM
+2015,Tajikistan,import,0,TJK
+2015,Tokelau,import,0,TKL
+2015,Trinidad and Tobago,import,0,TTO
+2015,Tuvalu,import,0,TUV
+2015,United States Minor Outlying Islands,import,0,UMI
+2015,Vanuatu,import,0,VUT
+2015,Virgin Islands (British),import,0,VGB
+2015,Wallis and Futuna,import,0,WLF
+2015,Western Sahara,import,0,ESH
+2016,Albania,import,44633.7803966605,ALB
+2016,Algeria,import,25183.610868059368,DZA
+2016,Andorra,import,259931.66539064492,AND
+2016,Angola,import,29951.8356484013,AGO
+2016,Antigua and Barbuda,import,1523.37216085165,ATG
+2016,Argentina,import,4366396.876025374,ARG
+2016,Armenia,import,7330.14100040104,ARM
+2016,Australia,import,14758690.998122428,AUS
+2016,Austria,import,72917258.74302746,AUT
+2016,Azerbaijan,import,7583.316927339674,AZE
+2016,Bahrain,import,363370603.593824,BHR
+2016,Bangladesh,import,5118572.020489264,BGD
+2016,Belarus,import,1339270.938149403,BLR
+2016,Belgium,import,225203442.38989758,BEL
+2016,Belize,import,8095.607750920565,BLZ
+2016,Benin,import,133.773105107733,BEN
+2016,Bermuda,import,250272.696780779,BMU
+2016,Bosnia and Herzegovina,import,24022.657588683487,BIH
+2016,Brazil,import,63313504.40364212,BRA
+2016,Bulgaria,import,31217925.771537457,BGR
+2016,Burkina Faso,import,2288.13117503372,BFA
+2016,Burundi,import,3145.585420540302,BDI
+2016,Cabo Verde,import,58598.63237813996,CPV
+2016,Cambodia,import,408345.0645302417,KHM
+2016,Cameroon,import,269379.80194319884,CMR
+2016,Canada,import,65584581.698658355,CAN
+2016,Chile,import,787152.1528309458,CHL
+2016,China,import,5088932735.03181,CHN
+2016,Christmas Island,import,14315.267144263365,CXR
+2016,Colombia,import,1821867.8656713688,COL
+2016,Comoros,import,11844.859455321015,COM
+2016,Congo,import,19046.648620073633,COG
+2016,Congo (Democratic Republic of the),import,1927.389806409279,COD
+2016,Costa Rica,import,146767.5808450909,CRI
+2016,Cote d'Ivoire,import,353369.0633089066,CIV
+2016,Croatia,import,2000369.8621896529,HRV
+2016,Cuba,import,30051.889879324754,CUB
+2016,Cyprus,import,5338748.250483067,CYP
+2016,Czechia,import,20067969.00452075,CZE
+2016,Denmark,import,32454169.270206723,DNK
+2016,Djibouti,import,596.900634365088,DJI
+2016,Dominican Republic,import,5689.392157935037,DOM
+2016,Ecuador,import,783850.966586459,ECU
+2016,Egypt,import,175445975.468938,EGY
+2016,El Salvador,import,103076.68480440415,SLV
+2016,Estonia,import,703967.6113784686,EST
+2016,Eswatini,import,8873037.705530643,SWZ
+2016,Finland,import,15748499.19929637,FIN
+2016,France,import,211526734.09712347,FRA
+2016,Gabon,import,4559.980768529661,GAB
+2016,Georgia,import,199336.47735972848,GEO
+2016,Germany,import,342098884.4530424,DEU
+2016,Ghana,import,109996.94164934922,GHA
+2016,Greece,import,24052973.071384314,GRC
+2016,Guatemala,import,202349.65547413332,GTM
+2016,Guinea,import,34503.44343577966,GIN
+2016,Guinea-Bissau,import,3740.39611360239,GNB
+2016,Haiti,import,50200.402858288646,HTI
+2016,Holy See,import,7339.64599511466,VAT
+2016,Hong Kong,import,62553277.87970766,HKG
+2016,Hungary,import,23561957.960552704,HUN
+2016,Iceland,import,982950.1139305114,ISL
+2016,India,import,1301919763.6078603,IND
+2016,Indonesia,import,324039244.0587517,IDN
+2016,Iran (Islamic Republic of),import,9687513.164442739,IRN
+2016,Iraq,import,30335.388184038755,IRQ
+2016,Ireland,import,35325394.2059499,IRL
+2016,Israel,import,25616607.672536373,ISR
+2016,Italy,import,705324653.7624412,ITA
+2016,Jamaica,import,7880.759870939513,JAM
+2016,Japan,import,659048806.9233294,JPN
+2016,Jordan,import,3679655.2886543428,JOR
+2016,Kazakhstan,import,180739.4864923989,KAZ
+2016,Kenya,import,32608307.419610634,KEN
+2016,Korea (Democratic People's Republic of),import,4046948.6574428533,PRK
+2016,Korea (Republic of),import,179106528.5459732,KOR
+2016,Kuwait,import,968114611.3123883,KWT
+2016,Kyrgyzstan,import,929991.9560501659,KGZ
+2016,Latvia,import,26095266.81158627,LVA
+2016,Lebanon,import,4514877.428542783,LBN
+2016,Lesotho,import,425.819843960771,LSO
+2016,Liberia,import,337.244795654235,LBR
+2016,Libya,import,90.8304167122389,LBY
+2016,Lithuania,import,3454017.180721135,LTU
+2016,Luxembourg,import,5794140.180101351,LUX
+2016,Macedonia (the former Yugoslav Republic of),import,5770.676564949514,MKD
+2016,Madagascar,import,113951.85797878169,MDG
+2016,Malawi,import,2344536.5552881993,MWI
+2016,Malaysia,import,290316582.21499145,MYS
+2016,Mali,import,750674.7393269895,MLI
+2016,Malta,import,737809.724197018,MLT
+2016,Mauritius,import,284827.8769732765,MUS
+2016,Mexico,import,5730025.411061288,MEX
+2016,Monaco,import,212.259834481753,MCO
+2016,Mongolia,import,41767.4450399213,MNG
+2016,Morocco,import,198178263.51580444,MAR
+2016,Mozambique,import,116540.86322869957,MOZ
+2016,Myanmar,import,29129.119271573876,MMR
+2016,Namibia,import,770769.9697400568,NAM
+2016,Nepal,import,3844.065131794819,NPL
+2016,Netherlands,import,182584771.73110574,NLD
+2016,New Zealand,import,6182459.197382331,NZL
+2016,Niger,import,2988.1065660432346,NER
+2016,Nigeria,import,7158648.654708515,NGA
+2016,Norway,import,7176900.280269061,NOR
+2016,Oman,import,13877838.9965912,OMN
+2016,Pakistan,import,34530697.895475596,PAK
+2016,"Palestine, State of",import,52506.1563491195,PSE
+2016,Panama,import,32915.500018228915,PAN
+2016,Peru,import,6176566.908199348,PER
+2016,Philippines,import,12232549.969010899,PHL
+2016,Poland,import,103657896.67186184,POL
+2016,Portugal,import,11096897.763771918,PRT
+2016,Puerto Rico,import,114408.02070800982,PRI
+2016,Qatar,import,3995203.135367677,QAT
+2016,Réunion,import,21574.31641693101,REU
+2016,Romania,import,205027137.73332968,ROU
+2016,Russian Federation,import,163375918.3346093,RUS
+2016,Rwanda,import,3084197.859017824,RWA
+2016,Saudi Arabia,import,368789872.80068535,SAU
+2016,Senegal,import,82844.02320536658,SEN
+2016,Serbia,import,42012160.9701411,SRB
+2016,Sierra Leone,import,2238714.818258052,SLE
+2016,Singapore,import,22373704.615097158,SGP
+2016,Slovakia,import,4099293.515531006,SVK
+2016,Slovenia,import,3742790.4075066526,SVN
+2016,Somalia,import,1624231.7405847826,SOM
+2016,South Africa,import,154343548.471964,ZAF
+2016,South Sudan,import,4960.006744686283,SSD
+2016,Spain,import,135069263.84027854,ESP
+2016,Sri Lanka,import,2134867.494713624,LKA
+2016,Sudan,import,77630603.5901783,SDN
+2016,Suriname,import,6543.924313682599,SUR
+2016,Sweden,import,429048058.4108058,SWE
+2016,Switzerland,import,55579287.80533377,CHE
+2016,Syrian Arab Republic,import,328530.5356556934,SYR
+2016,"Taiwan, Province of China",import,51339009.88962412,TWN
+2016,Tajikistan,import,632.885814284152,TJK
+2016,"Tanzania, United Republic of",import,4477825.072915525,TZA
+2016,Thailand,import,132326681.94064677,THA
+2016,Timor-Leste,import,3435.69397353167,TLS
+2016,Togo,import,13822.283896605779,TGO
+2016,Trinidad and Tobago,import,2394.323070472853,TTO
+2016,Tunisia,import,1162233.6145138352,TUN
+2016,Turkey,import,573547146.438988,TUR
+2016,Turkmenistan,import,8211.80593532393,TKM
+2016,Turks and Caicos Islands,import,28864.017098691198,TCA
+2016,Uganda,import,293385.91272011376,UGA
+2016,Ukraine,import,179736022.78564665,UKR
+2016,United Arab Emirates,import,393895397.65257573,ARE
+2016,United Kingdom of Great Britain and Northern Ireland,import,205943246.27310508,GBR
+2016,United States of America,import,1536717316.9191368,USA
+2016,Uruguay,import,59988.7131320865,URY
+2016,Uzbekistan,import,6046286.36434066,UZB
+2016,Viet Nam,import,24265265.186481472,VNM
+2016,Virgin Islands (U.S.),import,124664.39899376617,VIR
+2016,Yemen,import,4314446.006051991,YEM
+2016,Zambia,import,485635.22275693604,ZMB
+2016,Zimbabwe,import,43819.781071129095,ZWE
+2016,Afghanistan,import,0,AFG
+2016,Åland Islands,import,0,ALA
+2016,American Samoa,import,0,ASM
+2016,Anguilla,import,0,AIA
+2016,Antarctica,import,0,ATA
+2016,Aruba,import,0,ABW
+2016,Bahamas,import,0,BHS
+2016,Barbados,import,0,BRB
+2016,Bhutan,import,0,BTN
+2016,Bolivia (Plurinational State of),import,0,BOL
+2016,"Bonaire, Sint Eustatius and Saba",import,0,BES
+2016,Botswana,import,0,BWA
+2016,Bouvet Island,import,0,BVT
+2016,British Indian Ocean Territory,import,0,IOT
+2016,Brunei Darussalam,import,0,BRN
+2016,Cayman Islands,import,0,CYM
+2016,Central African Republic,import,0,CAF
+2016,Chad,import,0,TCD
+2016,Cocos (Keeling) Islands,import,0,CCK
+2016,Cook Islands,import,0,COK
+2016,Curaçao,import,0,CUW
+2016,Dominica,import,0,DMA
+2016,Equatorial Guinea,import,0,GNQ
+2016,Eritrea,import,0,ERI
+2016,Ethiopia,import,0,ETH
+2016,Falkland Islands (Malvinas),import,0,FLK
+2016,Faroe Islands,import,0,FRO
+2016,Fiji,import,0,FJI
+2016,French Guiana,import,0,GUF
+2016,French Polynesia,import,0,PYF
+2016,French Southern Territories,import,0,ATF
+2016,Gambia,import,0,GMB
+2016,Gibraltar,import,0,GIB
+2016,Greenland,import,0,GRL
+2016,Grenada,import,0,GRD
+2016,Guadeloupe,import,0,GLP
+2016,Guam,import,0,GUM
+2016,Guernsey,import,0,GGY
+2016,Guyana,import,0,GUY
+2016,Heard Island and McDonald Islands,import,0,HMD
+2016,Honduras,import,0,HND
+2016,Isle of Man,import,0,IMN
+2016,Jersey,import,0,JEY
+2016,Kiribati,import,0,KIR
+2016,Lao People's Democratic Republic,import,0,LAO
+2016,Liechtenstein,import,0,LIE
+2016,Macao,import,0,MAC
+2016,Maldives,import,0,MDV
+2016,Marshall Islands,import,0,MHL
+2016,Martinique,import,0,MTQ
+2016,Mauritania,import,0,MRT
+2016,Mayotte,import,0,MYT
+2016,Micronesia (Federated States of),import,0,FSM
+2016,Moldova (Republic of),import,0,MDA
+2016,Montenegro,import,0,MNE
+2016,Montserrat,import,0,MSR
+2016,Nauru,import,0,NRU
+2016,New Caledonia,import,0,NCL
+2016,Nicaragua,import,0,NIC
+2016,Niue,import,0,NIU
+2016,Norfolk Island,import,0,NFK
+2016,Northern Mariana Islands,import,0,MNP
+2016,Palau,import,0,PLW
+2016,Papua New Guinea,import,0,PNG
+2016,Paraguay,import,0,PRY
+2016,Pitcairn,import,0,PCN
+2016,Saint Barthélemy,import,0,BLM
+2016,"Saint Helena, Ascension and Tristan da Cunha",import,0,SHN
+2016,Saint Kitts and Nevis,import,0,KNA
+2016,Saint Lucia,import,0,LCA
+2016,Saint Martin (French part),import,0,MAF
+2016,Saint Pierre and Miquelon,import,0,SPM
+2016,Saint Vincent and the Grenadines,import,0,VCT
+2016,Samoa,import,0,WSM
+2016,San Marino,import,0,SMR
+2016,Sao Tome and Principe,import,0,STP
+2016,Seychelles,import,0,SYC
+2016,Sint Maarten (Dutch part),import,0,SXM
+2016,Solomon Islands,import,0,SLB
+2016,South Georgia and the South Sandwich Islands,import,0,SGS
+2016,Svalbard and Jan Mayen,import,0,SJM
+2016,Tokelau,import,0,TKL
+2016,Tonga,import,0,TON
+2016,Tuvalu,import,0,TUV
+2016,United States Minor Outlying Islands,import,0,UMI
+2016,Vanuatu,import,0,VUT
+2016,Venezuela (Bolivarian Republic of),import,0,VEN
+2016,Virgin Islands (British),import,0,VGB
+2016,Wallis and Futuna,import,0,WLF
+2016,Western Sahara,import,0,ESH
+2017,Albania,import,1662.7685624501892,ALB
+2017,Algeria,import,21287063.193059415,DZA
+2017,Andorra,import,252252.17967617625,AND
+2017,Angola,import,5388.60630386218,AGO
+2017,Argentina,import,4529062.917218967,ARG
+2017,Armenia,import,530.024899966552,ARM
+2017,Australia,import,19365821.53413526,AUS
+2017,Austria,import,61887960.298689105,AUT
+2017,Azerbaijan,import,33616.01484913429,AZE
+2017,Bahrain,import,65040410.948139556,BHR
+2017,Bangladesh,import,4065341.1976760034,BGD
+2017,Belarus,import,3058982.8867443805,BLR
+2017,Belgium,import,168710055.58060285,BEL
+2017,Bhutan,import,538.325301752082,BTN
+2017,Bolivia (Plurinational State of),import,47.2351952562054,BOL
+2017,Bosnia and Herzegovina,import,84464.60818684469,BIH
+2017,Brazil,import,176051340.22350195,BRA
+2017,Bulgaria,import,37412141.759075955,BGR
+2017,Burkina Faso,import,9814.669920592642,BFA
+2017,Cabo Verde,import,4639.920055828777,CPV
+2017,Cambodia,import,412944.8335666415,KHM
+2017,Cameroon,import,426218.17697558325,CMR
+2017,Canada,import,54722142.429865085,CAN
+2017,Chad,import,3825.993830754554,TCD
+2017,Chile,import,1382571.4556835103,CHL
+2017,China,import,4858471116.070479,CHN
+2017,Christmas Island,import,180407.42498007542,CXR
+2017,Colombia,import,1438979.6761765548,COL
+2017,Comoros,import,518.599407851541,COM
+2017,Congo,import,137912.78322163454,COG
+2017,Congo (Democratic Republic of the),import,95783.21750513068,COD
+2017,Costa Rica,import,384702.4235141573,CRI
+2017,Cote d'Ivoire,import,450994.8482258259,CIV
+2017,Croatia,import,376245.8039633476,HRV
+2017,Cuba,import,622601.7719030922,CUB
+2017,Cyprus,import,5743863.49326297,CYP
+2017,Czechia,import,21931427.7134654,CZE
+2017,Denmark,import,22108958.650469925,DNK
+2017,Djibouti,import,66871.62683910815,DJI
+2017,Dominica,import,17332.1073300051,DMA
+2017,Dominican Republic,import,33839.78585202895,DOM
+2017,Ecuador,import,193876.48955894433,ECU
+2017,Egypt,import,176968569.50427598,EGY
+2017,El Salvador,import,12986.07666546918,SLV
+2017,Equatorial Guinea,import,28753.311117442732,GNQ
+2017,Estonia,import,62711.21448244824,EST
+2017,Eswatini,import,4546079.275990445,SWZ
+2017,Finland,import,33488812.95520358,FIN
+2017,France,import,180045478.98593813,FRA
+2017,French Polynesia,import,733.345721376394,PYF
+2017,Gabon,import,267765.7524290887,GAB
+2017,Georgia,import,309317.4047875657,GEO
+2017,Germany,import,232167643.69090018,DEU
+2017,Ghana,import,377765.21809149807,GHA
+2017,Gibraltar,import,1528.59201631918,GIB
+2017,Greece,import,17716893.00562305,GRC
+2017,Grenada,import,313.494708240939,GRD
+2017,Guatemala,import,299730.3161127972,GTM
+2017,Guinea,import,5945.807679760833,GIN
+2017,Haiti,import,146689.11958177964,HTI
+2017,Holy See,import,6769.897055362169,VAT
+2017,Honduras,import,903.113528155957,HND
+2017,Hong Kong,import,16755638.189446203,HKG
+2017,Hungary,import,12717910.9027167,HUN
+2017,Iceland,import,465123.9349379985,ISL
+2017,India,import,1090717117.8184946,IND
+2017,Indonesia,import,261679340.16648412,IDN
+2017,Iran (Islamic Republic of),import,9563195.953638164,IRN
+2017,Ireland,import,37942055.83301223,IRL
+2017,Israel,import,37172553.61059068,ISR
+2017,Italy,import,645175663.2010425,ITA
+2017,Jamaica,import,188.892054722116,JAM
+2017,Japan,import,680157620.3839158,JPN
+2017,Jordan,import,5152612.125188196,JOR
+2017,Kazakhstan,import,6610.467896386409,KAZ
+2017,Kenya,import,35684842.72594757,KEN
+2017,Korea (Democratic People's Republic of),import,5211987.707757805,PRK
+2017,Korea (Republic of),import,174269143.31061202,KOR
+2017,Kuwait,import,892757330.6054869,KWT
+2017,Latvia,import,259976.04400232868,LVA
+2017,Lebanon,import,2152140.1149610397,LBN
+2017,Lesotho,import,1653.958186225318,LSO
+2017,Lithuania,import,2073932.825423569,LTU
+2017,Luxembourg,import,24678400.793660626,LUX
+2017,Macedonia (the former Yugoslav Republic of),import,2100.3068048759383,MKD
+2017,Madagascar,import,109682.32143668267,MDG
+2017,Malawi,import,231854.19108143458,MWI
+2017,Malaysia,import,340705770.5097086,MYS
+2017,Mali,import,207724.41724580774,MLI
+2017,Malta,import,1009811.0443533239,MLT
+2017,Mauritius,import,277781.8754671328,MUS
+2017,Mexico,import,10287757.494330246,MEX
+2017,Moldova (Republic of),import,4261.80435976529,MDA
+2017,Monaco,import,894.8341860436304,MCO
+2017,Mongolia,import,45.2960535824156,MNG
+2017,Morocco,import,286424977.19060826,MAR
+2017,Mozambique,import,12279.72201231372,MOZ
+2017,Myanmar,import,796061.4331314088,MMR
+2017,Namibia,import,429848.5082731481,NAM
+2017,Netherlands,import,215992478.92738718,NLD
+2017,New Zealand,import,4883150.5254594935,NZL
+2017,Nicaragua,import,7085.29952223447,NIC
+2017,Niger,import,427289.09026341105,NER
+2017,Nigeria,import,55403270.35747765,NGA
+2017,Norway,import,3650495.363155483,NOR
+2017,Oman,import,36186321.19543547,OMN
+2017,Pakistan,import,34802459.408175625,PAK
+2017,"Palestine, State of",import,1858.58883672146,PSE
+2017,Panama,import,24908.701774380705,PAN
+2017,Peru,import,135563.45898938345,PER
+2017,Philippines,import,8958036.900440395,PHL
+2017,Poland,import,36048729.40636911,POL
+2017,Portugal,import,13769866.565520111,PRT
+2017,Puerto Rico,import,18798.53284276686,PRI
+2017,Qatar,import,4225529.597925416,QAT
+2017,Réunion,import,3957.22945546292,REU
+2017,Romania,import,92896199.5436096,ROU
+2017,Russian Federation,import,52220419.549682036,RUS
+2017,Rwanda,import,21650.99083697748,RWA
+2017,Saint Vincent and the Grenadines,import,27.847081996457,VCT
+2017,Sao Tome and Principe,import,8561.73085737646,STP
+2017,Saudi Arabia,import,452865996.2721788,SAU
+2017,Senegal,import,21649.871370819517,SEN
+2017,Serbia,import,5510034.564704812,SRB
+2017,Sierra Leone,import,11033.53401963092,SLE
+2017,Singapore,import,20230208.28512319,SGP
+2017,Slovakia,import,1272029.1317220624,SVK
+2017,Slovenia,import,2194994.460438868,SVN
+2017,Somalia,import,1447520.7479074532,SOM
+2017,South Africa,import,203974202.28287965,ZAF
+2017,South Sudan,import,4326.318397482749,SSD
+2017,Spain,import,137854443.51214018,ESP
+2017,Sri Lanka,import,7454634.502351671,LKA
+2017,Sudan,import,84362463.98093894,SDN
+2017,Suriname,import,51260.666724477516,SUR
+2017,Sweden,import,45673657.51583666,SWE
+2017,Switzerland,import,59425435.16995903,CHE
+2017,Syrian Arab Republic,import,171736.6079060488,SYR
+2017,"Taiwan, Province of China",import,55985881.44049742,TWN
+2017,"Tanzania, United Republic of",import,1621193.799784447,TZA
+2017,Thailand,import,190828216.07110742,THA
+2017,Togo,import,1413.57605639037,TGO
+2017,Trinidad and Tobago,import,30564.87948498771,TTO
+2017,Tunisia,import,2051450.388914435,TUN
+2017,Turkey,import,599027332.6289307,TUR
+2017,Turkmenistan,import,3584725.798925542,TKM
+2017,Turks and Caicos Islands,import,124944.29014448587,TCA
+2017,Uganda,import,214502.89921501098,UGA
+2017,Ukraine,import,123940920.09964792,UKR
+2017,United Arab Emirates,import,260554970.3990759,ARE
+2017,United Kingdom of Great Britain and Northern Ireland,import,192058772.20298603,GBR
+2017,United States of America,import,1211216011.0935552,USA
+2017,Uruguay,import,89431.8963203383,URY
+2017,Uzbekistan,import,951220.742539301,UZB
+2017,Venezuela (Bolivarian Republic of),import,79480.82950336335,VEN
+2017,Viet Nam,import,37798009.79429627,VNM
+2017,Virgin Islands (U.S.),import,11541.180745677604,VIR
+2017,Yemen,import,4056914.5348909227,YEM
+2017,Zambia,import,406506.4108122836,ZMB
+2017,Zimbabwe,import,41481.73093996339,ZWE
+2017,Afghanistan,import,0,AFG
+2017,Åland Islands,import,0,ALA
+2017,American Samoa,import,0,ASM
+2017,Anguilla,import,0,AIA
+2017,Antarctica,import,0,ATA
+2017,Antigua and Barbuda,import,0,ATG
+2017,Aruba,import,0,ABW
+2017,Bahamas,import,0,BHS
+2017,Barbados,import,0,BRB
+2017,Belize,import,0,BLZ
+2017,Benin,import,0,BEN
+2017,Bermuda,import,0,BMU
+2017,"Bonaire, Sint Eustatius and Saba",import,0,BES
+2017,Botswana,import,0,BWA
+2017,Bouvet Island,import,0,BVT
+2017,British Indian Ocean Territory,import,0,IOT
+2017,Brunei Darussalam,import,0,BRN
+2017,Burundi,import,0,BDI
+2017,Cayman Islands,import,0,CYM
+2017,Central African Republic,import,0,CAF
+2017,Cocos (Keeling) Islands,import,0,CCK
+2017,Cook Islands,import,0,COK
+2017,Curaçao,import,0,CUW
+2017,Eritrea,import,0,ERI
+2017,Ethiopia,import,0,ETH
+2017,Falkland Islands (Malvinas),import,0,FLK
+2017,Faroe Islands,import,0,FRO
+2017,Fiji,import,0,FJI
+2017,French Guiana,import,0,GUF
+2017,French Southern Territories,import,0,ATF
+2017,Gambia,import,0,GMB
+2017,Greenland,import,0,GRL
+2017,Guadeloupe,import,0,GLP
+2017,Guam,import,0,GUM
+2017,Guernsey,import,0,GGY
+2017,Guinea-Bissau,import,0,GNB
+2017,Guyana,import,0,GUY
+2017,Heard Island and McDonald Islands,import,0,HMD
+2017,Iraq,import,0,IRQ
+2017,Isle of Man,import,0,IMN
+2017,Jersey,import,0,JEY
+2017,Kiribati,import,0,KIR
+2017,Kyrgyzstan,import,0,KGZ
+2017,Lao People's Democratic Republic,import,0,LAO
+2017,Liberia,import,0,LBR
+2017,Libya,import,0,LBY
+2017,Liechtenstein,import,0,LIE
+2017,Macao,import,0,MAC
+2017,Maldives,import,0,MDV
+2017,Marshall Islands,import,0,MHL
+2017,Martinique,import,0,MTQ
+2017,Mauritania,import,0,MRT
+2017,Mayotte,import,0,MYT
+2017,Micronesia (Federated States of),import,0,FSM
+2017,Montenegro,import,0,MNE
+2017,Montserrat,import,0,MSR
+2017,Nauru,import,0,NRU
+2017,Nepal,import,0,NPL
+2017,New Caledonia,import,0,NCL
+2017,Niue,import,0,NIU
+2017,Norfolk Island,import,0,NFK
+2017,Northern Mariana Islands,import,0,MNP
+2017,Palau,import,0,PLW
+2017,Papua New Guinea,import,0,PNG
+2017,Paraguay,import,0,PRY
+2017,Pitcairn,import,0,PCN
+2017,Saint Barthélemy,import,0,BLM
+2017,"Saint Helena, Ascension and Tristan da Cunha",import,0,SHN
+2017,Saint Kitts and Nevis,import,0,KNA
+2017,Saint Lucia,import,0,LCA
+2017,Saint Martin (French part),import,0,MAF
+2017,Saint Pierre and Miquelon,import,0,SPM
+2017,Samoa,import,0,WSM
+2017,San Marino,import,0,SMR
+2017,Seychelles,import,0,SYC
+2017,Sint Maarten (Dutch part),import,0,SXM
+2017,Solomon Islands,import,0,SLB
+2017,South Georgia and the South Sandwich Islands,import,0,SGS
+2017,Svalbard and Jan Mayen,import,0,SJM
+2017,Tajikistan,import,0,TJK
+2017,Timor-Leste,import,0,TLS
+2017,Tokelau,import,0,TKL
+2017,Tonga,import,0,TON
+2017,Tuvalu,import,0,TUV
+2017,United States Minor Outlying Islands,import,0,UMI
+2017,Vanuatu,import,0,VUT
+2017,Virgin Islands (British),import,0,VGB
+2017,Wallis and Futuna,import,0,WLF
+2017,Western Sahara,import,0,ESH
+2013,Albania,export,89371.95706405811,ALB
+2013,Algeria,export,3282485.7990117064,DZA
+2013,Andorra,export,5632.181211802062,AND
+2013,Angola,export,1267115.2142807746,AGO
+2013,Armenia,export,86200.9159525747,ARM
+2013,Australia,export,12859655.992255354,AUS
+2013,Austria,export,105085.03093068655,AUT
+2013,Azerbaijan,export,1429.44452423125,AZE
+2013,Bahrain,export,5201885.018164798,BHR
+2013,Bangladesh,export,88020.0041489141,BGD
+2013,Belarus,export,85635.5737469481,BLR
+2013,Belgium,export,54332352.55663534,BEL
+2013,Benin,export,74.60704996250018,BEN
+2013,Botswana,export,36431.21153610884,BWA
+2013,Brazil,export,2689.482502752644,BRA
+2013,Bulgaria,export,4457589.640480636,BGR
+2013,Burkina Faso,export,34138.72053872059,BFA
+2013,Cameroon,export,1805.503162217221,CMR
+2013,Canada,export,9062671.815043537,CAN
+2013,Chile,export,109340.2949984309,CHL
+2013,China,export,308326184.9756119,CHN
+2013,Colombia,export,1328.6849538034369,COL
+2013,Congo,export,528263.4305136678,COG
+2013,Croatia,export,20000.04414870135,HRV
+2013,Cyprus,export,174880.0602124453,CYP
+2013,Czechia,export,418025.0615688219,CZE
+2013,Denmark,export,1743835.2024723273,DNK
+2013,Djibouti,export,75113019.13234505,DJI
+2013,Egypt,export,50704436.51523129,EGY
+2013,El Salvador,export,14473.51397067037,SLV
+2013,Equatorial Guinea,export,1745.0593347907734,GNQ
+2013,Estonia,export,76161.6954165137,EST
+2013,Eswatini,export,176755.62364029975,SWZ
+2013,Finland,export,2783790.5282418723,FIN
+2013,France,export,28127834.029606223,FRA
+2013,Gabon,export,1029.1189940479037,GAB
+2013,Gambia,export,14665.3219929681,GMB
+2013,Georgia,export,38925.264759229976,GEO
+2013,Germany,export,177060162.33051947,DEU
+2013,Ghana,export,230418.23234982742,GHA
+2013,Greece,export,13159952.230041321,GRC
+2013,Guatemala,export,217427.8679368731,GTM
+2013,Guinea,export,2731.1439832766837,GIN
+2013,Haiti,export,412312.8892931422,HTI
+2013,Hong Kong,export,38680090.75270877,HKG
+2013,Hungary,export,2050090.346327946,HUN
+2013,Iceland,export,87197.3649076335,ISL
+2013,India,export,35533787.12400464,IND
+2013,Indonesia,export,24070910.8105808,IDN
+2013,Iran (Islamic Republic of),export,124526.19081813391,IRN
+2013,Iraq,export,173799.4941516268,IRQ
+2013,Ireland,export,278667.3076207046,IRL
+2013,Israel,export,93670626.93336737,ISR
+2013,Italy,export,61519662.05286142,ITA
+2013,Japan,export,76975043.73115037,JPN
+2013,Jordan,export,27894537.335971616,JOR
+2013,Kazakhstan,export,9175.69534204606,KAZ
+2013,Kenya,export,15157556.140658822,KEN
+2013,Korea (Democratic People's Republic of),export,196657.34384391623,PRK
+2013,Korea (Republic of),export,24307829.25569547,KOR
+2013,Kuwait,export,2868456.6619326496,KWT
+2013,Kyrgyzstan,export,467.246450816751,KGZ
+2013,Latvia,export,693471.5081302762,LVA
+2013,Lebanon,export,4641715.565342739,LBN
+2013,Liberia,export,6369.28792931952,LBR
+2013,Libya,export,1901954.7087515534,LBY
+2013,Lithuania,export,650496.9133142907,LTU
+2013,Malawi,export,60168.6193158547,MWI
+2013,Malaysia,export,3475073.7522672755,MYS
+2013,Malta,export,4099.147344960929,MLT
+2013,Mauritius,export,35543.684342104505,MUS
+2013,Mexico,export,870331.1439832763,MEX
+2013,Monaco,export,24693.5367365067,MCO
+2013,Mongolia,export,18632.7046132733,MNG
+2013,Morocco,export,853847.9731490789,MAR
+2013,Mozambique,export,17365.537417354157,MOZ
+2013,Netherlands,export,168873513.71641642,NLD
+2013,New Zealand,export,3611927.17432354,NZL
+2013,Nigeria,export,143436.03757426815,NGA
+2013,Norway,export,7525518.72224084,NOR
+2013,Oman,export,1921136.0024680714,OMN
+2013,Pakistan,export,49271089.53037482,PAK
+2013,Paraguay,export,15507.16857889052,PRY
+2013,Philippines,export,1260487.5197472353,PHL
+2013,Poland,export,950100.7898894155,POL
+2013,Portugal,export,2800335.8795963847,PRT
+2013,Puerto Rico,export,217904.3935936511,PRI
+2013,Qatar,export,167904.92656953947,QAT
+2013,Romania,export,3338294.541518397,ROU
+2013,Russian Federation,export,15655316.56055021,RUS
+2013,Rwanda,export,590439.7790437288,RWA
+2013,Sao Tome and Principe,export,36852.142275839,STP
+2013,Saudi Arabia,export,165418686.63145405,SAU
+2013,Senegal,export,2572.971420364785,SEN
+2013,Serbia,export,112607.0935792895,SRB
+2013,Singapore,export,770526.0924144016,SGP
+2013,Slovakia,export,49794.02396795761,SVK
+2013,Slovenia,export,594239.9582980953,SVN
+2013,Somalia,export,319844363.30711,SOM
+2013,South Africa,export,11430643.143387537,ZAF
+2013,South Sudan,export,3539699.422343499,SSD
+2013,Spain,export,10214843.57157674,ESP
+2013,Sri Lanka,export,839738.9981968186,LKA
+2013,Sudan,export,93063094.81704886,SDN
+2013,Sweden,export,14239720.70680476,SWE
+2013,Switzerland,export,155420738.54553965,CHE
+2013,Syrian Arab Republic,export,633914.4797102141,SYR
+2013,"Taiwan, Province of China",export,6185806.7313471725,TWN
+2013,"Tanzania, United Republic of",export,58432.23759448088,TZA
+2013,Thailand,export,8444343.699767556,THA
+2013,Togo,export,1283.9580640528507,TGO
+2013,Tunisia,export,1452947.839107239,TUN
+2013,Turkey,export,77156410.01111695,TUR
+2013,Turks and Caicos Islands,export,147512.441423184,TCA
+2013,Uganda,export,155377.5948000277,UGA
+2013,Ukraine,export,69256.8007616981,UKR
+2013,United Arab Emirates,export,75598536.98756923,ARE
+2013,United Kingdom of Great Britain and Northern Ireland,export,48420424.92539933,GBR
+2013,United States of America,export,121045779.12032382,USA
+2013,Uruguay,export,1780.74903856894,URY
+2013,Viet Nam,export,20115522.96743102,VNM
+2013,Virgin Islands (U.S.),export,289008.398359583,VIR
+2013,Yemen,export,31765937.035441313,YEM
+2013,Zimbabwe,export,267783.6580656485,ZWE
+2013,Afghanistan,export,0,AFG
+2013,Åland Islands,export,0,ALA
+2013,American Samoa,export,0,ASM
+2013,Anguilla,export,0,AIA
+2013,Antarctica,export,0,ATA
+2013,Antigua and Barbuda,export,0,ATG
+2013,Argentina,export,0,ARG
+2013,Aruba,export,0,ABW
+2013,Bahamas,export,0,BHS
+2013,Barbados,export,0,BRB
+2013,Belize,export,0,BLZ
+2013,Bermuda,export,0,BMU
+2013,Bhutan,export,0,BTN
+2013,Bolivia (Plurinational State of),export,0,BOL
+2013,"Bonaire, Sint Eustatius and Saba",export,0,BES
+2013,Bosnia and Herzegovina,export,0,BIH
+2013,Bouvet Island,export,0,BVT
+2013,British Indian Ocean Territory,export,0,IOT
+2013,Brunei Darussalam,export,0,BRN
+2013,Burundi,export,0,BDI
+2013,Cabo Verde,export,0,CPV
+2013,Cambodia,export,0,KHM
+2013,Cayman Islands,export,0,CYM
+2013,Central African Republic,export,0,CAF
+2013,Chad,export,0,TCD
+2013,Christmas Island,export,0,CXR
+2013,Cocos (Keeling) Islands,export,0,CCK
+2013,Comoros,export,0,COM
+2013,Congo (Democratic Republic of the),export,0,COD
+2013,Cook Islands,export,0,COK
+2013,Costa Rica,export,0,CRI
+2013,Cote d'Ivoire,export,0,CIV
+2013,Cuba,export,0,CUB
+2013,Curaçao,export,0,CUW
+2013,Dominica,export,0,DMA
+2013,Dominican Republic,export,0,DOM
+2013,Ecuador,export,0,ECU
+2013,Eritrea,export,0,ERI
+2013,Ethiopia,export,0,ETH
+2013,Falkland Islands (Malvinas),export,0,FLK
+2013,Faroe Islands,export,0,FRO
+2013,Fiji,export,0,FJI
+2013,French Guiana,export,0,GUF
+2013,French Polynesia,export,0,PYF
+2013,French Southern Territories,export,0,ATF
+2013,Gibraltar,export,0,GIB
+2013,Greenland,export,0,GRL
+2013,Grenada,export,0,GRD
+2013,Guadeloupe,export,0,GLP
+2013,Guam,export,0,GUM
+2013,Guernsey,export,0,GGY
+2013,Guinea-Bissau,export,0,GNB
+2013,Guyana,export,0,GUY
+2013,Heard Island and McDonald Islands,export,0,HMD
+2013,Holy See,export,0,VAT
+2013,Honduras,export,0,HND
+2013,Isle of Man,export,0,IMN
+2013,Jamaica,export,0,JAM
+2013,Jersey,export,0,JEY
+2013,Kiribati,export,0,KIR
+2013,Lao People's Democratic Republic,export,0,LAO
+2013,Lesotho,export,0,LSO
+2013,Liechtenstein,export,0,LIE
+2013,Luxembourg,export,0,LUX
+2013,Macao,export,0,MAC
+2013,Macedonia (the former Yugoslav Republic of),export,0,MKD
+2013,Madagascar,export,0,MDG
+2013,Maldives,export,0,MDV
+2013,Mali,export,0,MLI
+2013,Marshall Islands,export,0,MHL
+2013,Martinique,export,0,MTQ
+2013,Mauritania,export,0,MRT
+2013,Mayotte,export,0,MYT
+2013,Micronesia (Federated States of),export,0,FSM
+2013,Moldova (Republic of),export,0,MDA
+2013,Montenegro,export,0,MNE
+2013,Montserrat,export,0,MSR
+2013,Myanmar,export,0,MMR
+2013,Namibia,export,0,NAM
+2013,Nauru,export,0,NRU
+2013,Nepal,export,0,NPL
+2013,New Caledonia,export,0,NCL
+2013,Nicaragua,export,0,NIC
+2013,Niger,export,0,NER
+2013,Niue,export,0,NIU
+2013,Norfolk Island,export,0,NFK
+2013,Northern Mariana Islands,export,0,MNP
+2013,Palau,export,0,PLW
+2013,"Palestine, State of",export,0,PSE
+2013,Panama,export,0,PAN
+2013,Papua New Guinea,export,0,PNG
+2013,Peru,export,0,PER
+2013,Pitcairn,export,0,PCN
+2013,Réunion,export,0,REU
+2013,Saint Barthélemy,export,0,BLM
+2013,"Saint Helena, Ascension and Tristan da Cunha",export,0,SHN
+2013,Saint Kitts and Nevis,export,0,KNA
+2013,Saint Lucia,export,0,LCA
+2013,Saint Martin (French part),export,0,MAF
+2013,Saint Pierre and Miquelon,export,0,SPM
+2013,Saint Vincent and the Grenadines,export,0,VCT
+2013,Samoa,export,0,WSM
+2013,San Marino,export,0,SMR
+2013,Seychelles,export,0,SYC
+2013,Sierra Leone,export,0,SLE
+2013,Sint Maarten (Dutch part),export,0,SXM
+2013,Solomon Islands,export,0,SLB
+2013,South Georgia and the South Sandwich Islands,export,0,SGS
+2013,Suriname,export,0,SUR
+2013,Svalbard and Jan Mayen,export,0,SJM
+2013,Tajikistan,export,0,TJK
+2013,Timor-Leste,export,0,TLS
+2013,Tokelau,export,0,TKL
+2013,Tonga,export,0,TON
+2013,Trinidad and Tobago,export,0,TTO
+2013,Turkmenistan,export,0,TKM
+2013,Tuvalu,export,0,TUV
+2013,United States Minor Outlying Islands,export,0,UMI
+2013,Uzbekistan,export,0,UZB
+2013,Vanuatu,export,0,VUT
+2013,Venezuela (Bolivarian Republic of),export,0,VEN
+2013,Virgin Islands (British),export,0,VGB
+2013,Wallis and Futuna,export,0,WLF
+2013,Western Sahara,export,0,ESH
+2013,Zambia,export,0,ZMB
+2014,Afghanistan,export,3040.64516769594,AFG
+2014,Albania,export,102782.4996524951,ALB
+2014,Algeria,export,1564758.8554180975,DZA
+2014,Andorra,export,258044.34162711754,AND
+2014,Angola,export,736364.9561150941,AGO
+2014,Armenia,export,74020.44619631045,ARM
+2014,Australia,export,19625823.319069088,AUS
+2014,Austria,export,263711.6344645447,AUT
+2014,Bahrain,export,3492034.905875812,BHR
+2014,Bangladesh,export,404995.918306559,BGD
+2014,Belarus,export,42739.4154967334,BLR
+2014,Belgium,export,60803075.79578626,BEL
+2014,Bosnia and Herzegovina,export,2832.5974503068,BIH
+2014,Bulgaria,export,5402710.039416986,BGR
+2014,Burkina Faso,export,230157.8138962249,BFA
+2014,Burundi,export,8092.92033201612,BDI
+2014,Cambodia,export,36437.4054290196,KHM
+2014,Cameroon,export,5687.378621497646,CMR
+2014,Canada,export,11185181.868682858,CAN
+2014,Chile,export,540.134831906908,CHL
+2014,China,export,456461081.3499078,CHN
+2014,Colombia,export,179133.521316944,COL
+2014,Comoros,export,2639.28940209297,COM
+2014,Congo,export,254347.86929843712,COG
+2014,Congo (Democratic Republic of the),export,47.5500903512778,COD
+2014,Cote d'Ivoire,export,23279.018646120894,CIV
+2014,Croatia,export,500715.9425326162,HRV
+2014,Cyprus,export,182562.70130463276,CYP
+2014,Czechia,export,978667.1290136816,CZE
+2014,Denmark,export,976929.0916221534,DNK
+2014,Djibouti,export,79575541.13961753,DJI
+2014,Egypt,export,51609411.88119303,EGY
+2014,El Salvador,export,1744768.9653289376,SLV
+2014,Equatorial Guinea,export,2916.9507933040773,GNQ
+2014,Estonia,export,326240.0588772608,EST
+2014,Eswatini,export,436068.07373061415,SWZ
+2014,Finland,export,3379366.9885224104,FIN
+2014,France,export,46330454.000774436,FRA
+2014,Gabon,export,1926.1661272066572,GAB
+2014,Gambia,export,25394.43098552398,GMB
+2014,Georgia,export,140431.0580035346,GEO
+2014,Germany,export,221027687.8234277,DEU
+2014,Ghana,export,6854.192895013803,GHA
+2014,Greece,export,13816685.249905676,GRC
+2014,Guatemala,export,1191251.0847117691,GTM
+2014,Guinea,export,15219.263190293665,GIN
+2014,Honduras,export,2316922.881212891,HND
+2014,Hong Kong,export,19465487.937111538,HKG
+2014,Hungary,export,1136493.034512202,HUN
+2014,India,export,53127645.54647628,IND
+2014,Indonesia,export,33273434.299231514,IDN
+2014,Iran (Islamic Republic of),export,96.42665660557199,IRN
+2014,Iraq,export,119925.214460176,IRQ
+2014,Ireland,export,220391.9498004322,IRL
+2014,Israel,export,112653521.1625529,ISR
+2014,Italy,export,70527113.62467484,ITA
+2014,Japan,export,101677827.12027639,JPN
+2014,Jordan,export,33088864.398121484,JOR
+2014,Kazakhstan,export,7779.523521118374,KAZ
+2014,Kenya,export,21627089.987886973,KEN
+2014,Korea (Democratic People's Republic of),export,18506.36926865108,PRK
+2014,Korea (Republic of),export,38044171.38644533,KOR
+2014,Kuwait,export,2857526.830358029,KWT
+2014,Latvia,export,729981.2337417359,LVA
+2014,Lebanon,export,5672987.035088074,LBN
+2014,Libya,export,1942960.2841597325,LBY
+2014,Lithuania,export,553289.632935523,LTU
+2014,Malaysia,export,1681692.8279949962,MYS
+2014,Malta,export,85186.0203737167,MLT
+2014,Mauritius,export,57177.3049504557,MUS
+2014,Mexico,export,937548.2877936411,MEX
+2014,Morocco,export,328281.7584741554,MAR
+2014,Mozambique,export,60625.626501717685,MOZ
+2014,Namibia,export,4289.42691475208,NAM
+2014,Nepal,export,32454.953930777,NPL
+2014,Netherlands,export,175435071.71955368,NLD
+2014,New Zealand,export,4370721.925574373,NZL
+2014,Nicaragua,export,18970000.467642337,NIC
+2014,Nigeria,export,412637.8025774933,NGA
+2014,Norway,export,6770574.337754918,NOR
+2014,Oman,export,1918467.175182192,OMN
+2014,Pakistan,export,33280320.34790206,PAK
+2014,Philippines,export,953278.7143311033,PHL
+2014,Poland,export,1277442.454178994,POL
+2014,Portugal,export,6424521.789551023,PRT
+2014,Puerto Rico,export,662425.6116086493,PRI
+2014,Qatar,export,490466.43747890135,QAT
+2014,Réunion,export,619.335173454596,REU
+2014,Romania,export,3232737.9430687665,ROU
+2014,Russian Federation,export,21376745.470025226,RUS
+2014,Rwanda,export,1440452.0865187948,RWA
+2014,Sao Tome and Principe,export,32433.2949423142,STP
+2014,Saudi Arabia,export,194684816.6281102,SAU
+2014,Senegal,export,2625.6265017176675,SEN
+2014,Serbia,export,734386.3370996255,SRB
+2014,Singapore,export,1095412.0405488592,SGP
+2014,Slovakia,export,268273.4893464924,SVK
+2014,Slovenia,export,501484.3255426037,SVN
+2014,Somalia,export,330363236.99338746,SOM
+2014,South Africa,export,12670560.256359346,ZAF
+2014,South Sudan,export,2213743.2162076295,SSD
+2014,Spain,export,9581289.158839542,ESP
+2014,Sri Lanka,export,951537.9832800487,LKA
+2014,Sudan,export,82481244.31084813,SDN
+2014,Sweden,export,17195518.313509002,SWE
+2014,Switzerland,export,144981963.95679024,CHE
+2014,Syrian Arab Republic,export,266852.833157926,SYR
+2014,"Taiwan, Province of China",export,5006691.662860661,TWN
+2014,"Tanzania, United Republic of",export,763795.2759189024,TZA
+2014,Thailand,export,6556143.221171984,THA
+2014,Togo,export,6925.790325463172,TGO
+2014,Tunisia,export,1229551.517107172,TUN
+2014,Turkey,export,68022611.50737704,TUR
+2014,Turks and Caicos Islands,export,17219.50942234755,TCA
+2014,Uganda,export,466283.680176334,UGA
+2014,Ukraine,export,78670.69342123557,UKR
+2014,United Arab Emirates,export,83940925.56395085,ARE
+2014,United Kingdom of Great Britain and Northern Ireland,export,41257930.759645745,GBR
+2014,United States of America,export,147858201.9321273,USA
+2014,Venezuela (Bolivarian Republic of),export,24159.5251097123,VEN
+2014,Viet Nam,export,24180597.08244802,VNM
+2014,Virgin Islands (U.S.),export,34653.2337814492,VIR
+2014,Yemen,export,37475889.602652945,YEM
+2014,Zambia,export,6249.111380289525,ZMB
+2014,Zimbabwe,export,265784.05200659257,ZWE
+2014,Åland Islands,export,0,ALA
+2014,American Samoa,export,0,ASM
+2014,Anguilla,export,0,AIA
+2014,Antarctica,export,0,ATA
+2014,Antigua and Barbuda,export,0,ATG
+2014,Argentina,export,0,ARG
+2014,Aruba,export,0,ABW
+2014,Azerbaijan,export,0,AZE
+2014,Bahamas,export,0,BHS
+2014,Barbados,export,0,BRB
+2014,Belize,export,0,BLZ
+2014,Benin,export,0,BEN
+2014,Bermuda,export,0,BMU
+2014,Bhutan,export,0,BTN
+2014,Bolivia (Plurinational State of),export,0,BOL
+2014,"Bonaire, Sint Eustatius and Saba",export,0,BES
+2014,Botswana,export,0,BWA
+2014,Bouvet Island,export,0,BVT
+2014,Brazil,export,0,BRA
+2014,British Indian Ocean Territory,export,0,IOT
+2014,Brunei Darussalam,export,0,BRN
+2014,Cabo Verde,export,0,CPV
+2014,Cayman Islands,export,0,CYM
+2014,Central African Republic,export,0,CAF
+2014,Chad,export,0,TCD
+2014,Christmas Island,export,0,CXR
+2014,Cocos (Keeling) Islands,export,0,CCK
+2014,Cook Islands,export,0,COK
+2014,Costa Rica,export,0,CRI
+2014,Cuba,export,0,CUB
+2014,Curaçao,export,0,CUW
+2014,Dominica,export,0,DMA
+2014,Dominican Republic,export,0,DOM
+2014,Ecuador,export,0,ECU
+2014,Eritrea,export,0,ERI
+2014,Ethiopia,export,0,ETH
+2014,Falkland Islands (Malvinas),export,0,FLK
+2014,Faroe Islands,export,0,FRO
+2014,Fiji,export,0,FJI
+2014,French Guiana,export,0,GUF
+2014,French Polynesia,export,0,PYF
+2014,French Southern Territories,export,0,ATF
+2014,Gibraltar,export,0,GIB
+2014,Greenland,export,0,GRL
+2014,Grenada,export,0,GRD
+2014,Guadeloupe,export,0,GLP
+2014,Guam,export,0,GUM
+2014,Guernsey,export,0,GGY
+2014,Guinea-Bissau,export,0,GNB
+2014,Guyana,export,0,GUY
+2014,Haiti,export,0,HTI
+2014,Heard Island and McDonald Islands,export,0,HMD
+2014,Holy See,export,0,VAT
+2014,Iceland,export,0,ISL
+2014,Isle of Man,export,0,IMN
+2014,Jamaica,export,0,JAM
+2014,Jersey,export,0,JEY
+2014,Kiribati,export,0,KIR
+2014,Kyrgyzstan,export,0,KGZ
+2014,Lao People's Democratic Republic,export,0,LAO
+2014,Lesotho,export,0,LSO
+2014,Liberia,export,0,LBR
+2014,Liechtenstein,export,0,LIE
+2014,Luxembourg,export,0,LUX
+2014,Macao,export,0,MAC
+2014,Macedonia (the former Yugoslav Republic of),export,0,MKD
+2014,Madagascar,export,0,MDG
+2014,Malawi,export,0,MWI
+2014,Maldives,export,0,MDV
+2014,Mali,export,0,MLI
+2014,Marshall Islands,export,0,MHL
+2014,Martinique,export,0,MTQ
+2014,Mauritania,export,0,MRT
+2014,Mayotte,export,0,MYT
+2014,Micronesia (Federated States of),export,0,FSM
+2014,Moldova (Republic of),export,0,MDA
+2014,Monaco,export,0,MCO
+2014,Mongolia,export,0,MNG
+2014,Montenegro,export,0,MNE
+2014,Montserrat,export,0,MSR
+2014,Myanmar,export,0,MMR
+2014,Nauru,export,0,NRU
+2014,New Caledonia,export,0,NCL
+2014,Niger,export,0,NER
+2014,Niue,export,0,NIU
+2014,Norfolk Island,export,0,NFK
+2014,Northern Mariana Islands,export,0,MNP
+2014,Palau,export,0,PLW
+2014,"Palestine, State of",export,0,PSE
+2014,Panama,export,0,PAN
+2014,Papua New Guinea,export,0,PNG
+2014,Paraguay,export,0,PRY
+2014,Peru,export,0,PER
+2014,Pitcairn,export,0,PCN
+2014,Saint Barthélemy,export,0,BLM
+2014,"Saint Helena, Ascension and Tristan da Cunha",export,0,SHN
+2014,Saint Kitts and Nevis,export,0,KNA
+2014,Saint Lucia,export,0,LCA
+2014,Saint Martin (French part),export,0,MAF
+2014,Saint Pierre and Miquelon,export,0,SPM
+2014,Saint Vincent and the Grenadines,export,0,VCT
+2014,Samoa,export,0,WSM
+2014,San Marino,export,0,SMR
+2014,Seychelles,export,0,SYC
+2014,Sierra Leone,export,0,SLE
+2014,Sint Maarten (Dutch part),export,0,SXM
+2014,Solomon Islands,export,0,SLB
+2014,South Georgia and the South Sandwich Islands,export,0,SGS
+2014,Suriname,export,0,SUR
+2014,Svalbard and Jan Mayen,export,0,SJM
+2014,Tajikistan,export,0,TJK
+2014,Timor-Leste,export,0,TLS
+2014,Tokelau,export,0,TKL
+2014,Tonga,export,0,TON
+2014,Trinidad and Tobago,export,0,TTO
+2014,Turkmenistan,export,0,TKM
+2014,Tuvalu,export,0,TUV
+2014,United States Minor Outlying Islands,export,0,UMI
+2014,Uruguay,export,0,URY
+2014,Uzbekistan,export,0,UZB
+2014,Vanuatu,export,0,VUT
+2014,Virgin Islands (British),export,0,VGB
+2014,Wallis and Futuna,export,0,WLF
+2014,Western Sahara,export,0,ESH
+2015,Albania,export,101310.629963459,ALB
+2015,Algeria,export,648902.1222898904,DZA
+2015,Andorra,export,2328.37174177832,AND
+2015,Angola,export,124527.0981729598,AGO
+2015,Argentina,export,282.099390986602,ARG
+2015,Australia,export,10908462.41071864,AUS
+2015,Austria,export,114255.59561510348,AUT
+2015,Bahrain,export,255286.6514007309,BHR
+2015,Bangladesh,export,488425.66626065766,BGD
+2015,Belarus,export,2678.85602923264,BLR
+2015,Belgium,export,31730908.632886715,BEL
+2015,Benin,export,3270.905724725948,BEN
+2015,Bermuda,export,2302.81948842875,BMU
+2015,Bosnia and Herzegovina,export,61579.92838002438,BIH
+2015,Botswana,export,11279.30962241169,BWA
+2015,Brazil,export,429149.83239951247,BRA
+2015,Bulgaria,export,1437332.0457978067,BGR
+2015,Burkina Faso,export,8329.187819732037,BFA
+2015,Burundi,export,6452.64750304507,BDI
+2015,Cameroon,export,50420.27478684532,CMR
+2015,Canada,export,4966934.389281364,CAN
+2015,Chad,export,186897.84263093743,TCD
+2015,China,export,225538159.8504263,CHN
+2015,Colombia,export,144.14275274055979,COL
+2015,Congo,export,165264.37612667476,COG
+2015,Congo (Democratic Republic of the),export,10419.24725943971,COD
+2015,Cote d'Ivoire,export,33979.052375152205,CIV
+2015,Croatia,export,227590.6207064556,HRV
+2015,Cyprus,export,31089.03775883079,CYP
+2015,Czechia,export,500082.5812423876,CZE
+2015,Denmark,export,396636.9953714981,DNK
+2015,Djibouti,export,40670779.10353229,DJI
+2015,Ecuador,export,96.326431181486,ECU
+2015,Egypt,export,23361065.300365403,EGY
+2015,El Salvador,export,2103401.910353227,SLV
+2015,Equatorial Guinea,export,1407.094275274055,GNQ
+2015,Eswatini,export,155661.35152253395,SWZ
+2015,Finland,export,3338614.3693057243,FIN
+2015,France,export,17020090.12959806,FRA
+2015,Gabon,export,1008.14275274056,GAB
+2015,Gambia,export,2744.71766138855,GMB
+2015,Georgia,export,22887.3812423873,GEO
+2015,Germany,export,123350393.10742998,DEU
+2015,Ghana,export,65364.66260657736,GHA
+2015,Greece,export,4829609.260901335,GRC
+2015,Guatemala,export,289989.130328867,GTM
+2015,Guinea,export,160.235322777101,GIN
+2015,Honduras,export,1956234.604628506,HND
+2015,Hong Kong,export,13053350.463337397,HKG
+2015,Hungary,export,295396.38148599316,HUN
+2015,Iceland,export,162807.140560292,ISL
+2015,India,export,35212928.33666261,IND
+2015,Indonesia,export,8161462.933008524,IDN
+2015,Iran (Islamic Republic of),export,1819.308647990252,IRN
+2015,Iraq,export,2082.373203410475,IRQ
+2015,Ireland,export,205203.09330085266,IRL
+2015,Israel,export,45308842.538855046,ISR
+2015,Italy,export,32419859.76224117,ITA
+2015,Japan,export,39400910.914981745,JPN
+2015,Jordan,export,14506638.045310598,JOR
+2015,Kazakhstan,export,5238.87795371497,KAZ
+2015,Kenya,export,18056078.2864799,KEN
+2015,Korea (Democratic People's Republic of),export,272900.4297198539,PRK
+2015,Korea (Republic of),export,26207145.75736907,KOR
+2015,Kuwait,export,1604216.688428746,KWT
+2015,Kyrgyzstan,export,928.734713763703,KGZ
+2015,Lebanon,export,415530.26017052383,LBN
+2015,Liberia,export,6134.951522533498,LBR
+2015,Libya,export,753104.882825822,LBY
+2015,Lithuania,export,157291.08355663822,LTU
+2015,Madagascar,export,5887.457734470159,MDG
+2015,Malawi,export,9737.073325213154,MWI
+2015,Malaysia,export,269776.6894031669,MYS
+2015,Mali,export,92542.36394640685,MLI
+2015,Malta,export,9735.847503045066,MLT
+2015,Mauritius,export,5390.06479902558,MUS
+2015,Mexico,export,961437.5006090133,MEX
+2015,Morocco,export,25397.54104750301,MAR
+2015,Mozambique,export,478636.14470158366,MOZ
+2015,Myanmar,export,8627.86163215591,MMR
+2015,Namibia,export,2702.23337393423,NAM
+2015,Nepal,export,71714.6163215591,NPL
+2015,Netherlands,export,100575631.73544458,NLD
+2015,New Zealand,export,1816204.5671132754,NZL
+2015,Nicaragua,export,409894.392204629,NIC
+2015,Niger,export,344112.8350791722,NER
+2015,Nigeria,export,492468.2742996346,NGA
+2015,Norway,export,5395024.449208284,NOR
+2015,Oman,export,1818048.3688185145,OMN
+2015,Pakistan,export,19785700.39025578,PAK
+2015,"Palestine, State of",export,180550.2855054809,PSE
+2015,Panama,export,998.053105968331,PAN
+2015,Philippines,export,872626.2051157126,PHL
+2015,Poland,export,21916.759561510364,POL
+2015,Portugal,export,1767348.7595615103,PRT
+2015,Puerto Rico,export,58985.92545676,PRI
+2015,Qatar,export,280297.0869671132,QAT
+2015,Romania,export,511837.7515225334,ROU
+2015,Russian Federation,export,6056100.18270402,RUS
+2015,Rwanda,export,736988.3936662601,RWA
+2015,Saudi Arabia,export,109055077.16053592,SAU
+2015,Senegal,export,48478.24604141292,SEN
+2015,Serbia,export,89905.90645554199,SRB
+2015,Sierra Leone,export,819.341291108404,SLE
+2015,Singapore,export,5667530.2133982945,SGP
+2015,Slovakia,export,12075.41339829476,SVK
+2015,Slovenia,export,397927.5717417782,SVN
+2015,Somalia,export,123821067.10304505,SOM
+2015,South Africa,export,6554588.985140075,ZAF
+2015,South Sudan,export,1253470.2752740562,SSD
+2015,Spain,export,8020970.755176617,ESP
+2015,Sri Lanka,export,564264.5690621192,LKA
+2015,Sudan,export,39193480.84482339,SDN
+2015,Sweden,export,9309836.43897686,SWE
+2015,Switzerland,export,70203527.59220462,CHE
+2015,"Taiwan, Province of China",export,3779926.761510352,TWN
+2015,"Tanzania, United Republic of",export,4697.817783191231,TZA
+2015,Thailand,export,3176042.0711327656,THA
+2015,Togo,export,10580.748355663834,TGO
+2015,Tonga,export,147.276979293544,TON
+2015,Tunisia,export,573835.2350791718,TUN
+2015,Turkey,export,24655061.26479903,TUR
+2015,Turks and Caicos Islands,export,292435.1780755176,TCA
+2015,Uganda,export,127333.34616321564,UGA
+2015,Ukraine,export,2697.57612667479,UKR
+2015,United Arab Emirates,export,44837612.4867235,ARE
+2015,United Kingdom of Great Britain and Northern Ireland,export,19308571.517661396,GBR
+2015,United States of America,export,115812622.09062111,USA
+2015,Viet Nam,export,6030220.810718638,VNM
+2015,Yemen,export,11656104.44823386,YEM
+2015,Zambia,export,179.118635809988,ZMB
+2015,Zimbabwe,export,101899.4626065773,ZWE
+2015,Afghanistan,export,0,AFG
+2015,Åland Islands,export,0,ALA
+2015,American Samoa,export,0,ASM
+2015,Anguilla,export,0,AIA
+2015,Antarctica,export,0,ATA
+2015,Antigua and Barbuda,export,0,ATG
+2015,Armenia,export,0,ARM
+2015,Aruba,export,0,ABW
+2015,Azerbaijan,export,0,AZE
+2015,Bahamas,export,0,BHS
+2015,Barbados,export,0,BRB
+2015,Belize,export,0,BLZ
+2015,Bhutan,export,0,BTN
+2015,Bolivia (Plurinational State of),export,0,BOL
+2015,"Bonaire, Sint Eustatius and Saba",export,0,BES
+2015,Bouvet Island,export,0,BVT
+2015,British Indian Ocean Territory,export,0,IOT
+2015,Brunei Darussalam,export,0,BRN
+2015,Cabo Verde,export,0,CPV
+2015,Cambodia,export,0,KHM
+2015,Cayman Islands,export,0,CYM
+2015,Central African Republic,export,0,CAF
+2015,Chile,export,0,CHL
+2015,Christmas Island,export,0,CXR
+2015,Cocos (Keeling) Islands,export,0,CCK
+2015,Comoros,export,0,COM
+2015,Cook Islands,export,0,COK
+2015,Costa Rica,export,0,CRI
+2015,Cuba,export,0,CUB
+2015,Curaçao,export,0,CUW
+2015,Dominica,export,0,DMA
+2015,Dominican Republic,export,0,DOM
+2015,Eritrea,export,0,ERI
+2015,Estonia,export,0,EST
+2015,Ethiopia,export,0,ETH
+2015,Falkland Islands (Malvinas),export,0,FLK
+2015,Faroe Islands,export,0,FRO
+2015,Fiji,export,0,FJI
+2015,French Guiana,export,0,GUF
+2015,French Polynesia,export,0,PYF
+2015,French Southern Territories,export,0,ATF
+2015,Gibraltar,export,0,GIB
+2015,Greenland,export,0,GRL
+2015,Grenada,export,0,GRD
+2015,Guadeloupe,export,0,GLP
+2015,Guam,export,0,GUM
+2015,Guernsey,export,0,GGY
+2015,Guinea-Bissau,export,0,GNB
+2015,Guyana,export,0,GUY
+2015,Haiti,export,0,HTI
+2015,Heard Island and McDonald Islands,export,0,HMD
+2015,Holy See,export,0,VAT
+2015,Isle of Man,export,0,IMN
+2015,Jamaica,export,0,JAM
+2015,Jersey,export,0,JEY
+2015,Kiribati,export,0,KIR
+2015,Lao People's Democratic Republic,export,0,LAO
+2015,Latvia,export,0,LVA
+2015,Lesotho,export,0,LSO
+2015,Liechtenstein,export,0,LIE
+2015,Luxembourg,export,0,LUX
+2015,Macao,export,0,MAC
+2015,Macedonia (the former Yugoslav Republic of),export,0,MKD
+2015,Maldives,export,0,MDV
+2015,Marshall Islands,export,0,MHL
+2015,Martinique,export,0,MTQ
+2015,Mauritania,export,0,MRT
+2015,Mayotte,export,0,MYT
+2015,Micronesia (Federated States of),export,0,FSM
+2015,Moldova (Republic of),export,0,MDA
+2015,Monaco,export,0,MCO
+2015,Mongolia,export,0,MNG
+2015,Montenegro,export,0,MNE
+2015,Montserrat,export,0,MSR
+2015,Nauru,export,0,NRU
+2015,New Caledonia,export,0,NCL
+2015,Niue,export,0,NIU
+2015,Norfolk Island,export,0,NFK
+2015,Northern Mariana Islands,export,0,MNP
+2015,Palau,export,0,PLW
+2015,Papua New Guinea,export,0,PNG
+2015,Paraguay,export,0,PRY
+2015,Peru,export,0,PER
+2015,Pitcairn,export,0,PCN
+2015,Réunion,export,0,REU
+2015,Saint Barthélemy,export,0,BLM
+2015,"Saint Helena, Ascension and Tristan da Cunha",export,0,SHN
+2015,Saint Kitts and Nevis,export,0,KNA
+2015,Saint Lucia,export,0,LCA
+2015,Saint Martin (French part),export,0,MAF
+2015,Saint Pierre and Miquelon,export,0,SPM
+2015,Saint Vincent and the Grenadines,export,0,VCT
+2015,Samoa,export,0,WSM
+2015,San Marino,export,0,SMR
+2015,Sao Tome and Principe,export,0,STP
+2015,Seychelles,export,0,SYC
+2015,Sint Maarten (Dutch part),export,0,SXM
+2015,Solomon Islands,export,0,SLB
+2015,South Georgia and the South Sandwich Islands,export,0,SGS
+2015,Suriname,export,0,SUR
+2015,Svalbard and Jan Mayen,export,0,SJM
+2015,Syrian Arab Republic,export,0,SYR
+2015,Tajikistan,export,0,TJK
+2015,Timor-Leste,export,0,TLS
+2015,Tokelau,export,0,TKL
+2015,Trinidad and Tobago,export,0,TTO
+2015,Turkmenistan,export,0,TKM
+2015,Tuvalu,export,0,TUV
+2015,United States Minor Outlying Islands,export,0,UMI
+2015,Uruguay,export,0,URY
+2015,Uzbekistan,export,0,UZB
+2015,Vanuatu,export,0,VUT
+2015,Venezuela (Bolivarian Republic of),export,0,VEN
+2015,Virgin Islands (British),export,0,VGB
+2015,Virgin Islands (U.S.),export,0,VIR
+2015,Wallis and Futuna,export,0,WLF
+2015,Western Sahara,export,0,ESH
+2016,Albania,export,48119.2045827409,ALB
+2016,Algeria,export,711104.0778008673,DZA
+2016,Andorra,export,78190.9876408181,AND
+2016,Angola,export,225792.2910058697,AGO
+2016,Argentina,export,12008.758977724341,ARG
+2016,Australia,export,18096677.5903241,AUS
+2016,Austria,export,1446036.3556819414,AUT
+2016,Azerbaijan,export,2453.0250829414117,AZE
+2016,Bahamas,export,2196.021546538332,BHS
+2016,Bahrain,export,3047396.864632324,BHR
+2016,Bangladesh,export,1898952.2708629556,BGD
+2016,Belarus,export,385.107459258449,BLR
+2016,Belgium,export,64947511.06447554,BEL
+2016,Benin,export,29746.815870064547,BEN
+2016,Bosnia and Herzegovina,export,45894.264738051024,BIH
+2016,Botswana,export,60257.63653432496,BWA
+2016,Brazil,export,423265.10399577126,BRA
+2016,Bulgaria,export,2055272.7678734188,BGR
+2016,Burkina Faso,export,73497.32400014579,BFA
+2016,Burundi,export,93645.15704181706,BDI
+2016,Cabo Verde,export,9513.99704692115,CPV
+2016,Cambodia,export,142753.84993984466,KHM
+2016,Cameroon,export,90434.87002807247,CMR
+2016,Canada,export,12718968.643588906,CAN
+2016,Central African Republic,export,506.714152903861,CAF
+2016,Chad,export,116568.4284880966,TCD
+2016,Chile,export,101353.59883699741,CHL
+2016,China,export,355170218.6349302,CHN
+2016,Colombia,export,339.6099930730251,COL
+2016,Comoros,export,269879.9067592694,COM
+2016,Congo,export,146825.44797477114,COG
+2016,Congo (Democratic Republic of the),export,13531.451657005362,COD
+2016,Costa Rica,export,860.06963432863,CRI
+2016,Cote d'Ivoire,export,58918.03064275036,CIV
+2016,Croatia,export,1968.824966276569,HRV
+2016,Cyprus,export,6963.470687957997,CYP
+2016,Czechia,export,1084134.3072113455,CZE
+2016,Denmark,export,1382047.9364905758,DNK
+2016,Djibouti,export,109249023.46877393,DJI
+2016,Egypt,export,14636297.75420176,EGY
+2016,El Salvador,export,1105862.3837908783,SLV
+2016,Equatorial Guinea,export,426.1821429873486,GNQ
+2016,Estonia,export,576175.189124649,EST
+2016,Eswatini,export,206339.98231798483,SWZ
+2016,Finland,export,4161308.5990192876,FIN
+2016,France,export,38070721.7853367,FRA
+2016,Gabon,export,6062.887819461161,GAB
+2016,Gambia,export,2725.272521783512,GMB
+2016,Georgia,export,61837.81308104565,GEO
+2016,Germany,export,166770921.20246816,DEU
+2016,Ghana,export,55569.21916584634,GHA
+2016,Greece,export,10166417.78136279,GRC
+2016,Guatemala,export,795009.6558387099,GTM
+2016,Guinea,export,14970.157953261145,GIN
+2016,Guinea-Bissau,export,1215.20334317693,GNB
+2016,Hong Kong,export,18806881.31949761,HKG
+2016,Hungary,export,891800.8526559481,HUN
+2016,India,export,68377561.59903753,IND
+2016,Indonesia,export,27712915.18237995,IDN
+2016,Iran (Islamic Republic of),export,2189910.3790695975,IRN
+2016,Iraq,export,2176500.116209122,IRQ
+2016,Ireland,export,459236.35066900006,IRL
+2016,Israel,export,63784475.71320499,ISR
+2016,Italy,export,53393087.876882136,ITA
+2016,Japan,export,72512907.11199823,JPN
+2016,Jordan,export,16953091.44473004,JOR
+2016,Kazakhstan,export,450.380527908418,KAZ
+2016,Kenya,export,30853782.59096212,KEN
+2016,Korea (Democratic People's Republic of),export,1434380.2840971246,PRK
+2016,Korea (Republic of),export,50788379.31751065,KOR
+2016,Kuwait,export,1311693.207007182,KWT
+2016,Lao People's Democratic Republic,export,3374.8418644500343,LAO
+2016,Latvia,export,419.483484633053,LVA
+2016,Lebanon,export,775370.4860731344,LBN
+2016,Liberia,export,276.12608917569,LBR
+2016,Libya,export,1429738.83754421,LBY
+2016,Lithuania,export,329897.1102665059,LTU
+2016,Luxembourg,export,870.609573808743,LUX
+2016,Madagascar,export,312675.1298807832,MDG
+2016,Malawi,export,230876.60915454448,MWI
+2016,Malaysia,export,4941534.271209305,MYS
+2016,Maldives,export,987.9055926209489,MDV
+2016,Mali,export,42473.11650078384,MLI
+2016,Malta,export,8865.976247766963,MLT
+2016,Mexico,export,2021436.8624448578,MEX
+2016,Moldova (Republic of),export,1327.01383572132,MDA
+2016,Morocco,export,317086.66466148966,MAR
+2016,Mozambique,export,661087.398829706,MOZ
+2016,Myanmar,export,73550.75011848772,MMR
+2016,Namibia,export,22280.494640708774,NAM
+2016,Nepal,export,117036.41766014077,NPL
+2016,Netherlands,export,181402721.39341572,NLD
+2016,New Zealand,export,4395438.688978815,NZL
+2016,Nicaragua,export,262731.7392176169,NIC
+2016,Niger,export,477335.8771737944,NER
+2016,Nigeria,export,4172267.7152830944,NGA
+2016,Norway,export,9380068.258503772,NOR
+2016,Oman,export,910528.1608881115,OMN
+2016,Pakistan,export,65347425.93058443,PAK
+2016,"Palestine, State of",export,330083.8624266284,PSE
+2016,Peru,export,139251.158445441,PER
+2016,Philippines,export,845276.5221116348,PHL
+2016,Poland,export,417355.61722993944,POL
+2016,Portugal,export,5652544.259725109,PRT
+2016,Puerto Rico,export,365965.897407853,PRI
+2016,Qatar,export,1009285.2245798241,QAT
+2016,Romania,export,648247.7432644281,ROU
+2016,Russian Federation,export,13324692.007091036,RUS
+2016,Rwanda,export,2667944.905938971,RWA
+2016,Sao Tome and Principe,export,10684.5628714135,STP
+2016,Saudi Arabia,export,184655124.30730247,SAU
+2016,Senegal,export,305618.31683619483,SEN
+2016,Seychelles,export,36324.68236173394,SYC
+2016,Sierra Leone,export,1632.770972328557,SLE
+2016,Singapore,export,5875906.431149511,SGP
+2016,Slovakia,export,197952.8473513435,SVK
+2016,Slovenia,export,1299789.5648765902,SVN
+2016,Somalia,export,271214514.62275326,SOM
+2016,South Africa,export,11889634.424331909,ZAF
+2016,South Sudan,export,1944381.1203470784,SSD
+2016,Spain,export,12267802.774435826,ESP
+2016,Sri Lanka,export,886607.3626453752,LKA
+2016,Sudan,export,48447335.803346835,SDN
+2016,Sweden,export,12264846.513726348,SWE
+2016,Switzerland,export,110696261.34474462,CHE
+2016,Syrian Arab Republic,export,76716.29935469756,SYR
+2016,"Taiwan, Province of China",export,11090065.515057053,TWN
+2016,"Tanzania, United Republic of",export,18494.49351051806,TZA
+2016,Thailand,export,4976777.815906521,THA
+2016,Togo,export,4896609.759743337,TGO
+2016,Tonga,export,251557.45697983901,TON
+2016,Tunisia,export,1233428.7852273136,TUN
+2016,Turkey,export,23935077.736155167,TUR
+2016,Uganda,export,293030.9567428631,UGA
+2016,Ukraine,export,719584.3605308252,UKR
+2016,United Arab Emirates,export,91159408.9795472,ARE
+2016,United Kingdom of Great Britain and Northern Ireland,export,49189958.21074408,GBR
+2016,United States of America,export,179654943.87372866,USA
+2016,Venezuela (Bolivarian Republic of),export,43786.0157132961,VEN
+2016,Viet Nam,export,43590544.04280141,VNM
+2016,Yemen,export,16970774.52969485,YEM
+2016,Zambia,export,466343.6285500747,ZMB
+2016,Zimbabwe,export,186736.43771191078,ZWE
+2016,Afghanistan,export,0,AFG
+2016,Åland Islands,export,0,ALA
+2016,American Samoa,export,0,ASM
+2016,Anguilla,export,0,AIA
+2016,Antarctica,export,0,ATA
+2016,Antigua and Barbuda,export,0,ATG
+2016,Armenia,export,0,ARM
+2016,Aruba,export,0,ABW
+2016,Barbados,export,0,BRB
+2016,Belize,export,0,BLZ
+2016,Bermuda,export,0,BMU
+2016,Bhutan,export,0,BTN
+2016,Bolivia (Plurinational State of),export,0,BOL
+2016,"Bonaire, Sint Eustatius and Saba",export,0,BES
+2016,Bouvet Island,export,0,BVT
+2016,British Indian Ocean Territory,export,0,IOT
+2016,Brunei Darussalam,export,0,BRN
+2016,Cayman Islands,export,0,CYM
+2016,Christmas Island,export,0,CXR
+2016,Cocos (Keeling) Islands,export,0,CCK
+2016,Cook Islands,export,0,COK
+2016,Cuba,export,0,CUB
+2016,Curaçao,export,0,CUW
+2016,Dominica,export,0,DMA
+2016,Dominican Republic,export,0,DOM
+2016,Ecuador,export,0,ECU
+2016,Eritrea,export,0,ERI
+2016,Ethiopia,export,0,ETH
+2016,Falkland Islands (Malvinas),export,0,FLK
+2016,Faroe Islands,export,0,FRO
+2016,Fiji,export,0,FJI
+2016,French Guiana,export,0,GUF
+2016,French Polynesia,export,0,PYF
+2016,French Southern Territories,export,0,ATF
+2016,Gibraltar,export,0,GIB
+2016,Greenland,export,0,GRL
+2016,Grenada,export,0,GRD
+2016,Guadeloupe,export,0,GLP
+2016,Guam,export,0,GUM
+2016,Guernsey,export,0,GGY
+2016,Guyana,export,0,GUY
+2016,Haiti,export,0,HTI
+2016,Heard Island and McDonald Islands,export,0,HMD
+2016,Holy See,export,0,VAT
+2016,Honduras,export,0,HND
+2016,Iceland,export,0,ISL
+2016,Isle of Man,export,0,IMN
+2016,Jamaica,export,0,JAM
+2016,Jersey,export,0,JEY
+2016,Kiribati,export,0,KIR
+2016,Kyrgyzstan,export,0,KGZ
+2016,Lesotho,export,0,LSO
+2016,Liechtenstein,export,0,LIE
+2016,Macao,export,0,MAC
+2016,Macedonia (the former Yugoslav Republic of),export,0,MKD
+2016,Marshall Islands,export,0,MHL
+2016,Martinique,export,0,MTQ
+2016,Mauritania,export,0,MRT
+2016,Mauritius,export,0,MUS
+2016,Mayotte,export,0,MYT
+2016,Micronesia (Federated States of),export,0,FSM
+2016,Monaco,export,0,MCO
+2016,Mongolia,export,0,MNG
+2016,Montenegro,export,0,MNE
+2016,Montserrat,export,0,MSR
+2016,Nauru,export,0,NRU
+2016,New Caledonia,export,0,NCL
+2016,Niue,export,0,NIU
+2016,Norfolk Island,export,0,NFK
+2016,Northern Mariana Islands,export,0,MNP
+2016,Palau,export,0,PLW
+2016,Panama,export,0,PAN
+2016,Papua New Guinea,export,0,PNG
+2016,Paraguay,export,0,PRY
+2016,Pitcairn,export,0,PCN
+2016,Réunion,export,0,REU
+2016,Saint Barthélemy,export,0,BLM
+2016,"Saint Helena, Ascension and Tristan da Cunha",export,0,SHN
+2016,Saint Kitts and Nevis,export,0,KNA
+2016,Saint Lucia,export,0,LCA
+2016,Saint Martin (French part),export,0,MAF
+2016,Saint Pierre and Miquelon,export,0,SPM
+2016,Saint Vincent and the Grenadines,export,0,VCT
+2016,Samoa,export,0,WSM
+2016,San Marino,export,0,SMR
+2016,Serbia,export,0,SRB
+2016,Sint Maarten (Dutch part),export,0,SXM
+2016,Solomon Islands,export,0,SLB
+2016,South Georgia and the South Sandwich Islands,export,0,SGS
+2016,Suriname,export,0,SUR
+2016,Svalbard and Jan Mayen,export,0,SJM
+2016,Tajikistan,export,0,TJK
+2016,Timor-Leste,export,0,TLS
+2016,Tokelau,export,0,TKL
+2016,Trinidad and Tobago,export,0,TTO
+2016,Turkmenistan,export,0,TKM
+2016,Turks and Caicos Islands,export,0,TCA
+2016,Tuvalu,export,0,TUV
+2016,United States Minor Outlying Islands,export,0,UMI
+2016,Uruguay,export,0,URY
+2016,Uzbekistan,export,0,UZB
+2016,Vanuatu,export,0,VUT
+2016,Virgin Islands (British),export,0,VGB
+2016,Virgin Islands (U.S.),export,0,VIR
+2016,Wallis and Futuna,export,0,WLF
+2016,Western Sahara,export,0,ESH
+2017,Algeria,export,585255.7643629034,DZA
+2017,Andorra,export,9273.013061126741,AND
+2017,Angola,export,381686.68202783936,AGO
+2017,Armenia,export,1324.34828570131,ARM
+2017,Australia,export,22637827.686863307,AUS
+2017,Austria,export,864801.4196697348,AUT
+2017,Azerbaijan,export,51681.42041301735,AZE
+2017,Bahrain,export,5896652.606237793,BHR
+2017,Bangladesh,export,2475011.0744975624,BGD
+2017,Belarus,export,74787.8258571493,BLR
+2017,Belgium,export,95018017.36597168,BEL
+2017,Bosnia and Herzegovina,export,10799.483005669601,BIH
+2017,Botswana,export,18336.831716693716,BWA
+2017,Brazil,export,124501.36929169302,BRA
+2017,Bulgaria,export,2113030.4419640824,BGR
+2017,Burkina Faso,export,1424229.3708112938,BFA
+2017,Burundi,export,505172.26977854304,BDI
+2017,Cambodia,export,508971.11190945195,KHM
+2017,Cameroon,export,1093195.4494588485,CMR
+2017,Canada,export,14648890.942688787,CAN
+2017,Central African Republic,export,11085.460979729023,CAF
+2017,Chad,export,652668.371674327,TCD
+2017,Chile,export,166879.54651503736,CHL
+2017,China,export,288164143.93171716,CHN
+2017,Comoros,export,5313.4959470452395,COM
+2017,Congo,export,14362.954383096108,COG
+2017,Congo (Democratic Republic of the),export,70178.45223789992,COD
+2017,Costa Rica,export,2780.482225222882,CRI
+2017,Cote d'Ivoire,export,58816.02393369918,CIV
+2017,Croatia,export,328788.783039943,HRV
+2017,Cyprus,export,216404.96471472358,CYP
+2017,Czechia,export,485580.12173316994,CZE
+2017,Denmark,export,1318319.1581085937,DNK
+2017,Djibouti,export,95995629.68835813,DJI
+2017,Egypt,export,6942248.762640965,EGY
+2017,El Salvador,export,862113.466628677,SLV
+2017,Equatorial Guinea,export,1336.5327519211799,GNQ
+2017,Estonia,export,99775.5460029979,EST
+2017,Eswatini,export,514584.4678716097,SWZ
+2017,Finland,export,5338303.603681726,FIN
+2017,France,export,36377706.830354005,FRA
+2017,Gabon,export,3173.5891051290673,GAB
+2017,Gambia,export,13907.065313892355,GMB
+2017,Georgia,export,651371.4455607446,GEO
+2017,Germany,export,195084746.33458444,DEU
+2017,Ghana,export,67299.72168196594,GHA
+2017,Greece,export,11087388.062055834,GRC
+2017,Guatemala,export,544875.5009931081,GTM
+2017,Guinea,export,2123.448087905557,GIN
+2017,Haiti,export,104304.18839735883,HTI
+2017,Honduras,export,49098.96435960008,HND
+2017,Hong Kong,export,20701207.32009465,HKG
+2017,Hungary,export,562385.1632537611,HUN
+2017,Iceland,export,22473.7220701246,ISL
+2017,India,export,44692721.71706536,IND
+2017,Indonesia,export,31690627.176475927,IDN
+2017,Iran (Islamic Republic of),export,20024826.4492978,IRN
+2017,Iraq,export,1536503.3654183655,IRQ
+2017,Ireland,export,692047.8038064324,IRL
+2017,Israel,export,79926524.67822057,ISR
+2017,Italy,export,61319180.11388741,ITA
+2017,Jamaica,export,34534.871102412,JAM
+2017,Japan,export,101134055.19079652,JPN
+2017,Jordan,export,21205576.42059883,JOR
+2017,Kazakhstan,export,12370.11921426772,KAZ
+2017,Kenya,export,67716537.76288459,KEN
+2017,Korea (Democratic People's Republic of),export,923181.7924672436,PRK
+2017,Korea (Republic of),export,54884085.928421885,KOR
+2017,Kuwait,export,2345683.681230876,KWT
+2017,Lao People's Democratic Republic,export,188171.21101379622,LAO
+2017,Latvia,export,1187755.185428358,LVA
+2017,Lebanon,export,2192738.099013499,LBN
+2017,Lesotho,export,605.952867625501,LSO
+2017,Liberia,export,590.310485652581,LBR
+2017,Libya,export,2189976.0588679756,LBY
+2017,Lithuania,export,382006.94804041804,LTU
+2017,Madagascar,export,142318.4445573136,MDG
+2017,Malawi,export,174278.1553378017,MWI
+2017,Malaysia,export,723616.4884853144,MYS
+2017,Maldives,export,4633.78012875307,MDV
+2017,Mali,export,382452.27341236925,MLI
+2017,Malta,export,689.5692677427741,MLT
+2017,Mauritius,export,4049.8920175579833,MUS
+2017,Mexico,export,2574373.09812569,MEX
+2017,Morocco,export,551584.257687813,MAR
+2017,Mozambique,export,223065.2160268247,MOZ
+2017,Myanmar,export,284140.12032919156,MMR
+2017,Namibia,export,335.38107685129,NAM
+2017,Nepal,export,106480.82578695046,NPL
+2017,Netherlands,export,188862436.69833875,NLD
+2017,New Zealand,export,4099839.13176336,NZL
+2017,Niger,export,113884.42162291617,NER
+2017,Nigeria,export,24228262.29822976,NGA
+2017,Norway,export,6961390.810136722,NOR
+2017,Oman,export,655672.280514847,OMN
+2017,Pakistan,export,27468099.56559261,PAK
+2017,"Palestine, State of",export,182861.120539788,PSE
+2017,Panama,export,134371.65120226,PAN
+2017,Peru,export,596008.5122373223,PER
+2017,Philippines,export,268229.63756715343,PHL
+2017,Poland,export,532343.5026778822,POL
+2017,Portugal,export,6863208.38298874,PRT
+2017,Puerto Rico,export,403628.51108110463,PRI
+2017,Qatar,export,1603401.9622660212,QAT
+2017,Romania,export,676024.1281914689,ROU
+2017,Russian Federation,export,21222797.64503302,RUS
+2017,Rwanda,export,5507752.048775857,RWA
+2017,Saudi Arabia,export,206153573.51931924,SAU
+2017,Senegal,export,3000728.8286279393,SEN
+2017,Seychelles,export,34694.79908658829,SYC
+2017,Sierra Leone,export,603114.4436323392,SLE
+2017,Singapore,export,12026536.23626476,SGP
+2017,Slovakia,export,259938.74732108568,SVK
+2017,Slovenia,export,1120971.5723317184,SVN
+2017,Somalia,export,243589938.8113262,SOM
+2017,South Africa,export,10532271.009501625,ZAF
+2017,South Sudan,export,1817281.3716867133,SSD
+2017,Spain,export,14846903.87869629,ESP
+2017,Sri Lanka,export,614986.439222196,LKA
+2017,Sudan,export,52963813.74659845,SDN
+2017,Sweden,export,10969730.057521814,SWE
+2017,Switzerland,export,111567073.16336934,CHE
+2017,Syrian Arab Republic,export,86286.8851917463,SYR
+2017,"Taiwan, Province of China",export,12815350.249206143,TWN
+2017,"Tanzania, United Republic of",export,95035.53634032431,TZA
+2017,Thailand,export,4258100.816784973,THA
+2017,Togo,export,10132576.76539937,TGO
+2017,Tunisia,export,764130.3556607164,TUN
+2017,Turkey,export,41822450.61671808,TUR
+2017,Uganda,export,418139.2804198721,UGA
+2017,Ukraine,export,1331536.9394926687,UKR
+2017,United Arab Emirates,export,127638054.27614602,ARE
+2017,United Kingdom of Great Britain and Northern Ireland,export,55081692.070826575,GBR
+2017,United States of America,export,226888332.37119532,USA
+2017,Venezuela (Bolivarian Republic of),export,18659.1314330075,VEN
+2017,Viet Nam,export,70135231.39377871,VNM
+2017,Virgin Islands (U.S.),export,51773.9529006603,VIR
+2017,Yemen,export,35393697.23953106,YEM
+2017,Zambia,export,606563.6646308983,ZMB
+2017,Zimbabwe,export,156666.0774087517,ZWE
+2017,Afghanistan,export,0,AFG
+2017,Åland Islands,export,0,ALA
+2017,Albania,export,0,ALB
+2017,American Samoa,export,0,ASM
+2017,Anguilla,export,0,AIA
+2017,Antarctica,export,0,ATA
+2017,Antigua and Barbuda,export,0,ATG
+2017,Argentina,export,0,ARG
+2017,Aruba,export,0,ABW
+2017,Bahamas,export,0,BHS
+2017,Barbados,export,0,BRB
+2017,Belize,export,0,BLZ
+2017,Benin,export,0,BEN
+2017,Bermuda,export,0,BMU
+2017,Bhutan,export,0,BTN
+2017,Bolivia (Plurinational State of),export,0,BOL
+2017,"Bonaire, Sint Eustatius and Saba",export,0,BES
+2017,Bouvet Island,export,0,BVT
+2017,British Indian Ocean Territory,export,0,IOT
+2017,Brunei Darussalam,export,0,BRN
+2017,Cabo Verde,export,0,CPV
+2017,Cayman Islands,export,0,CYM
+2017,Christmas Island,export,0,CXR
+2017,Cocos (Keeling) Islands,export,0,CCK
+2017,Colombia,export,0,COL
+2017,Cook Islands,export,0,COK
+2017,Cuba,export,0,CUB
+2017,Curaçao,export,0,CUW
+2017,Dominica,export,0,DMA
+2017,Dominican Republic,export,0,DOM
+2017,Ecuador,export,0,ECU
+2017,Eritrea,export,0,ERI
+2017,Ethiopia,export,0,ETH
+2017,Falkland Islands (Malvinas),export,0,FLK
+2017,Faroe Islands,export,0,FRO
+2017,Fiji,export,0,FJI
+2017,French Guiana,export,0,GUF
+2017,French Polynesia,export,0,PYF
+2017,French Southern Territories,export,0,ATF
+2017,Gibraltar,export,0,GIB
+2017,Greenland,export,0,GRL
+2017,Grenada,export,0,GRD
+2017,Guadeloupe,export,0,GLP
+2017,Guam,export,0,GUM
+2017,Guernsey,export,0,GGY
+2017,Guinea-Bissau,export,0,GNB
+2017,Guyana,export,0,GUY
+2017,Heard Island and McDonald Islands,export,0,HMD
+2017,Holy See,export,0,VAT
+2017,Isle of Man,export,0,IMN
+2017,Jersey,export,0,JEY
+2017,Kiribati,export,0,KIR
+2017,Kyrgyzstan,export,0,KGZ
+2017,Liechtenstein,export,0,LIE
+2017,Luxembourg,export,0,LUX
+2017,Macao,export,0,MAC
+2017,Macedonia (the former Yugoslav Republic of),export,0,MKD
+2017,Marshall Islands,export,0,MHL
+2017,Martinique,export,0,MTQ
+2017,Mauritania,export,0,MRT
+2017,Mayotte,export,0,MYT
+2017,Micronesia (Federated States of),export,0,FSM
+2017,Moldova (Republic of),export,0,MDA
+2017,Monaco,export,0,MCO
+2017,Mongolia,export,0,MNG
+2017,Montenegro,export,0,MNE
+2017,Montserrat,export,0,MSR
+2017,Nauru,export,0,NRU
+2017,New Caledonia,export,0,NCL
+2017,Nicaragua,export,0,NIC
+2017,Niue,export,0,NIU
+2017,Norfolk Island,export,0,NFK
+2017,Northern Mariana Islands,export,0,MNP
+2017,Palau,export,0,PLW
+2017,Papua New Guinea,export,0,PNG
+2017,Paraguay,export,0,PRY
+2017,Pitcairn,export,0,PCN
+2017,Réunion,export,0,REU
+2017,Saint Barthélemy,export,0,BLM
+2017,"Saint Helena, Ascension and Tristan da Cunha",export,0,SHN
+2017,Saint Kitts and Nevis,export,0,KNA
+2017,Saint Lucia,export,0,LCA
+2017,Saint Martin (French part),export,0,MAF
+2017,Saint Pierre and Miquelon,export,0,SPM
+2017,Saint Vincent and the Grenadines,export,0,VCT
+2017,Samoa,export,0,WSM
+2017,San Marino,export,0,SMR
+2017,Sao Tome and Principe,export,0,STP
+2017,Serbia,export,0,SRB
+2017,Sint Maarten (Dutch part),export,0,SXM
+2017,Solomon Islands,export,0,SLB
+2017,South Georgia and the South Sandwich Islands,export,0,SGS
+2017,Suriname,export,0,SUR
+2017,Svalbard and Jan Mayen,export,0,SJM
+2017,Tajikistan,export,0,TJK
+2017,Timor-Leste,export,0,TLS
+2017,Tokelau,export,0,TKL
+2017,Tonga,export,0,TON
+2017,Trinidad and Tobago,export,0,TTO
+2017,Turkmenistan,export,0,TKM
+2017,Turks and Caicos Islands,export,0,TCA
+2017,Tuvalu,export,0,TUV
+2017,United States Minor Outlying Islands,export,0,UMI
+2017,Uruguay,export,0,URY
+2017,Uzbekistan,export,0,UZB
+2017,Vanuatu,export,0,VUT
+2017,Virgin Islands (British),export,0,VGB
+2017,Wallis and Futuna,export,0,WLF
+2017,Western Sahara,export,0,ESH

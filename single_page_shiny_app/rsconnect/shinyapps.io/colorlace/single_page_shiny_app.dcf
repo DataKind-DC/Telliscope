@@ -1,0 +1,12 @@
+name: single_page_shiny_app
+title:
+username:
+account: colorlace
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 743015
+bundleId: 1919395
+url: https://colorlace.shinyapps.io/single_page_shiny_app/
+when: 1551868937.82208
+asMultiple: FALSE
+asStatic: FALSE
